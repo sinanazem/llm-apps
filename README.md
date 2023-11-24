@@ -1,5 +1,5 @@
 # LLAMA2 Health Care Chatbot
-
+<img src="https://www.revechat.com/wp-content/uploads/2021/11/chatbots-for-healthcare-1.png">
 LLAMA2 Health Care Chatbot is a powerful and versatile solution for building healthcare-oriented chatbots using the LLAMA2 language model and Streamlit framework. This repository provides a streamlined approach to creating intelligent chatbots that can assist healthcare professionals, patients, and anyone seeking medical information. By combining the state-of-the-art LLAMA2 language model with the user-friendly Streamlit interface, you can quickly develop a robust healthcare chatbot tailored to your needs.
 
 ## Features
