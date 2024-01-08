@@ -1,0 +1,8 @@
+sentence-transformers
+uvicorn
+ctransformers
+langchain
+python-box
+streamlit
+streamlit-lottie
+streamlit-option-menu
