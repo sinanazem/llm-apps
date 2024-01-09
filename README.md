@@ -1,3 +1,3 @@
 
 # Large Language Models Applications
-<img src="https://aisera.com/wp-content/uploads/2023/09/Large-Language-Models.png">
+<img src="https://techcrunch.com/wp-content/uploads/2023/06/FrMOungaIAIvQAM.png">
