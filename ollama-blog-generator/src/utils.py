@@ -16,7 +16,7 @@ def make_db_connection_psycopg2(database: str, autocommit: bool = False):
     host="localhost"
     port="5432"
     user="postgres"
-    password="matin9862"
+    password="pass"
     
     conn = psycopg2.connect(user=user, password=password, host=host, dbname=database)
     cursor = conn.cursor()
@@ -25,3 +25,21 @@ def make_db_connection_psycopg2(database: str, autocommit: bool = False):
         conn.autocommit = True
 
     return conn, cursor
+
+if __name__ == "__main__":
+    conn, curs = make_db_connection_psycopg2(database="blog")
+    conn, cursor = make_db_connection_psycopg2("blog")
+    # query = """
+    # SELECT * FROM information_schema.tables WHERE table_schema = 'public';
+    # "
+    
+    query = """
+    SELECT * FROM home_blog;
+    
+    """
+    
+    cursor.execute(query)
+    rows = cursor.fetchall()
+    
+    for i in rows:
+        print(i)
