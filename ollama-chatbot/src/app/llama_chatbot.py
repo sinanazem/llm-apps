@@ -3,6 +3,13 @@ import json
 from streamlit_lottie import st_lottie
 from utils import call_llama
 
+st.set_page_config(
+    page_title='Ollama Chatbot',
+    page_icon="🤖",
+    layout='centered',
+    initial_sidebar_state='collapsed'
+    )
+
 
 @st.cache_data
 def load_lottiefile(filepath: str):
