@@ -32,10 +32,6 @@ The `ollama-chatbot` project integrates the OLLAMA project (Open Language Learni
 
 Interact with the chatbot via the provided interface and explore the capabilities of OLLAMA in natural language understanding and generation.
 
-## Contribution
-
-If you have any ideas, improvements, or issues to report, please feel free to open an issue or submit a pull request. We welcome contributions from the community!
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
