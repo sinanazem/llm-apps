@@ -1,7 +1,9 @@
 from crewai import Agent
 
 from langchain_openai import ChatOpenAI
+from tools import yt_tool
 import os
+
 
 # Set environment variables
 os.environ['OPENAI_API_BASE'] = 'http://localhost:11434/v1'
@@ -24,7 +26,7 @@ blog_researcher = Agent(
        "Expert in understanding videos in AI Data Science , Machine Learning And GEN AI and providing suggestion" 
     ),
     llm = llm,
-    tools=[],
+    tools=[yt_tool],
     allow_delegation=True
 )
 
@@ -41,7 +43,7 @@ blog_writer = Agent(
         "discoveries to light in an accessible manner."
     ),
     llm = llm,
-    tools=[],
+    tools=[yt_tool],
     allow_delegation=False
 
 
