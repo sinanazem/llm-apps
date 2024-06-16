@@ -7,7 +7,7 @@ import os
 
 # Set environment variables
 os.environ['OPENAI_API_BASE'] = 'http://localhost:11434/v1'
-os.environ['OPENAI_MODEL_NAME'] = 'openhermes'
+os.environ['OPENAI_MODEL_NAME'] = 'llama2'
 os.environ['OPENAI_API_KEY'] = 'NA'
 
 llm = ChatOpenAI(

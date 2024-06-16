@@ -30,9 +30,6 @@ The `ollama-chatbot` project integrates the OLLAMA project (Open Language Learni
 3. Install dependencies: `pip install -r requirements.txt`
 4. Run the Streamlit app: `streamlit run chatbot_app.py`
 
-Interact with the chatbot via the provided interface and explore the capabilities of OLLAMA in natural language understanding and generation.
-
-## License
 
 This project is licensed under the [MIT License](LICENSE).
 
