@@ -12,7 +12,7 @@ Welcome to the "Large Language Models Applications" repository! This repository 
 The `ai-blog-generator` project utilizes a powerful pretrained language model called "LLAma2" to generate AI-driven blog content. This project demonstrates the capabilities of large language models in creating informative and engaging blog posts automatically.
 
 ### Usage
-1. Clone the repository: `git clone https://github.com/sinanazem/Large-Language-Models-Applications.git`
+1. Clone the repository: `git clone git@github.com:sinanazem/llm-apps.git`
 2. Navigate to the `ai-blog-generator` directory: `cd ai-blog-generator`
 3. Install dependencies: `pip install -r requirements.txt`
 4. Run the generator: `python ai_blog_generator.py`
@@ -25,7 +25,7 @@ Feel free to customize the parameters, input data, or any other configurations t
 The `ollama-chatbot` project integrates the OLLAMA project (Open Language Learning for Machine Agents) to create a chatbot. The chatbot runs locally on your machine and is accessible through a Streamlit interface. This project serves as an example of building conversational agents using OLLAMA and integrating them into user-friendly interfaces.
 
 ### Usage
-1. Clone the repository: `git clone https://github.com/sinanazem/Large-Language-Models-Applications.git`
+1. Clone the repository: `git clone git@github.com:sinanazem/llm-apps.git`
 2. Navigate to the `ollama-chatbot` directory: `cd ollama-chatbot`
 3. Install dependencies: `pip install -r requirements.txt`
 4. Run the Streamlit app: `streamlit run chatbot_app.py`
