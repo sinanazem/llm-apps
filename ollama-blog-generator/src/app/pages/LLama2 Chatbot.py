@@ -1,6 +1,4 @@
 import streamlit as st
-
-import streamlit as st
 import json
 from streamlit_lottie import st_lottie
 from utils import call_llama
@@ -11,6 +9,7 @@ def load_lottiefile(filepath: str):
     with open(filepath,"r") as f:
         return json.load(f)
 
+
 col1, col2 = st.columns(2)
 with col1:
     st.header("🦙LLAma2 Chatbot")
@@ -20,7 +19,8 @@ with col1:
     that transforms ideas into captivating
     content effortlessly.\n
     """)
-    
+
+
 with col2:
     
     lottie11 = load_lottiefile("/mnt/c/Users/user/OneDrive/Desktop/ai-blog-sn-20240108/llama2-applications/ollama-chatbot/src/app/animations/Animation_llama.json")
@@ -45,3 +45,4 @@ if prompt := st.chat_input():
     msg = response['response']
     st.session_state.messages.append({"role": "assistant", "content": msg})
     st.chat_message("assistant").write(msg)
+    
