@@ -31,7 +31,5 @@ The `ollama-chatbot` project integrates the OLLAMA project (Open Language Learni
 4. Run the Streamlit app: `streamlit run chatbot_app.py`
 
 
-This project is licensed under the [MIT License](LICENSE).
-
 
 
