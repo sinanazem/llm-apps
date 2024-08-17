@@ -133,30 +133,31 @@ from langchain.memory import ConversationBufferMemory
 # Set up the agent chain.
 # including assigning relevant documents and agent scratchpad, applying the prompt, running the model, and parsing the output.
 
+agent_chain = (
+    RunnablePassthrough.assign(
+        agent_scratchpad=lambda x: format_to_openai_functions(x["intermediate_steps"]),
+        relevant_docs=lambda x: "\n".join(
+            str(doc) for doc in session_state.get("relevant_docs", [])
+        ),
+    )
+    | prompt
+    | model
+    | OpenAIFunctionsAgentOutputParser()
+)
+# Set up a memory component to store conversation history.
+memory = ConversationBufferMemory(
+    return_messages=True,
+    memory_key="chat_history",
+    input_key="input",
+    output_key="output",
+)
+# Initialize an agent with the agent and defined tools
+# This combines all components into an executable agent that can process queries and maintain conversation context.
+# With AgentExecutor, the agent is equipped with the tools and verbose output is enabled, allowing for detailed logging.
+
+
+agent = AgentExecutor(agent=agent_chain, tools=tools, verbose=True, memory=memory)
+
 def get_agent_response(query):
     
-    
-    agent_chain = (
-        RunnablePassthrough.assign(
-            agent_scratchpad=lambda x: format_to_openai_functions(x["intermediate_steps"]),
-            relevant_docs=lambda x: "\n".join(
-                str(doc) for doc in session_state.get("relevant_docs", [])
-            ),
-        )
-        | prompt
-        | model
-        | OpenAIFunctionsAgentOutputParser()
-    )
-    # Set up a memory component to store conversation history.
-    memory = ConversationBufferMemory(
-        return_messages=True,
-        memory_key="chat_history",
-        input_key="input",
-        output_key="output",
-    )
-    # Initialize an agent with the agent and defined tools
-    # This combines all components into an executable agent that can process queries and maintain conversation context.
-    # With AgentExecutor, the agent is equipped with the tools and verbose output is enabled, allowing for detailed logging.
-    agent = AgentExecutor(agent=agent_chain, tools=tools, verbose=True, memory=memory)
-
     return agent.invoke({"input": query})
