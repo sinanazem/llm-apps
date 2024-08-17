@@ -1,0 +1,4 @@
+crewai==0.51.1
+crewai-tools==0.8.3
+youtube-transcript-api==0.6.2
+yt-dlp==2024.8.6
