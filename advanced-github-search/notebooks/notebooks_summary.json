@@ -1,0 +1,2010 @@
+[
+    {
+        "local_path": "downloaded_files/Lectures/01 Introduction/01 Early Programming.ipynb",
+        "name": "01 Early Programming",
+        "table_of_content": "",
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/01%20Introduction/01%20Early%20Programming.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/01 Introduction/02 Programming Languages.ipynb",
+        "name": "02 Programming Languages",
+        "table_of_content": [
+            "The First Programming Languages",
+            "Types of Programming Languages",
+            "Strengths and Applications",
+            "Considerations for Choosing a Programming Language",
+            "Learning a Programming Language",
+            "The Evolution of Programming Languages"
+        ],
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/01%20Introduction/02%20Programming%20Languages.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/01 Introduction/03 Why Choose Python.ipynb",
+        "name": "03 Why Choose Python",
+        "table_of_content": [
+            "Python's Simplicity and Versatility",
+            "Strong Community and Support",
+            "Cross-platform Compatibility",
+            "Integration and Extensibility",
+            "Gentle Learning Curve"
+        ],
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/01%20Introduction/03%20Why%20Choose%20Python.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/01 Introduction/04 Python Features and Applications.ipynb",
+        "name": "04 Python Features and Applications",
+        "table_of_content": [
+            "Dynamic Typing and Automatic Memory Management",
+            "Extensive Standard Library and Third-Party Packages",
+            "Object-Oriented Programming (OOP)",
+            "Multiplatform Support",
+            "Web Development",
+            "Data Analysis and Scientific Computing",
+            "Machine Learning and Artificial Intelligence"
+        ],
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/01%20Introduction/04%20Python%20Features%20and%20Applications.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/01 Introduction/05 How Long Does it Take to Learn Python.ipynb",
+        "name": "05 How Long Does it Take to Learn Python",
+        "table_of_content": [
+            "Factors that Influence Learning Journey",
+            "Learning Time Estimates"
+        ],
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/01%20Introduction/05%20How%20Long%20Does%20it%20Take%20to%20Learn%20Python.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/01 Introduction/06 Python Versions.ipynb",
+        "name": "06 Python Versions",
+        "table_of_content": [
+            "Python 2",
+            "Python 3",
+            "Key Differences and Benefits of Python 3",
+            "Conclusion"
+        ],
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/01%20Introduction/06%20Python%20Versions.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/01 Introduction/07 Effective Question Asking.ipynb",
+        "name": "07 Effective Question Asking",
+        "table_of_content": [
+            "No Hello",
+            "Don't Ask to Ask, Just Ask!",
+            "The XY Problem",
+            "Question Format",
+            "Examples of Good and Bad Questions",
+            "Bad Question #1",
+            "Good Question #1",
+            "Bad Question #2",
+            "Good Question #2",
+            "Bad Question #3",
+            "Good Question #3"
+        ],
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/01%20Introduction/07%20Effective%20Question%20Asking.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/02 Python Setup/01 Introduction to Python Development Environment.ipynb",
+        "name": "01 Introduction to Python Development Environment",
+        "table_of_content": [
+            "Python Development Environment",
+            "VS Code (Visual Studio Code)",
+            "Jupyter Notebook",
+            "Conda",
+            "Benefits of using VS Code, Jupyter Notebook, and Conda together"
+        ],
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/02%20Python%20Setup/01%20Introduction%20to%20Python%20Development%20Environment.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/02 Python Setup/02 Operating Systems and Terminal Setup.ipynb",
+        "name": "02 Operating Systems and Terminal Setup",
+        "table_of_content": [
+            "macOS",
+            "Linux",
+            "Windows and Windows Subsystem for Linux (WSL)",
+            "Accessing the Terminal",
+            "macOS",
+            "Linux",
+            "Windows Subsystem for Linux (WSL)"
+        ],
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/02%20Python%20Setup/02%20Operating%20Systems%20and%20Terminal%20Setup.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/02 Python Setup/03 How the File System Works in Unix-Based Systems.ipynb",
+        "name": "03 How the File System Works in Unix-Based Systems",
+        "table_of_content": [
+            "The Root Directory",
+            "Directory Structure",
+            "Directory Tree Representation",
+            "Difference from the Windows File System"
+        ],
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/02%20Python%20Setup/03%20How%20the%20File%20System%20Works%20in%20Unix-Based%20Systems.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/02 Python Setup/04 Command-Line Crash Course.ipynb",
+        "name": "04 Command-Line Crash Course",
+        "table_of_content": [
+            "Why is the Terminal Important?",
+            "Navigating the File System",
+            "Working with Files and Directories",
+            "Additional Useful Commands",
+            "Tips and Tricks"
+        ],
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/02%20Python%20Setup/04%20Command-Line%20Crash%20Course.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/02 Python Setup/05 Installing VS Code.ipynb",
+        "name": "05 Installing VS Code",
+        "table_of_content": [
+            "Installing VS Code",
+            "MacOS",
+            "Linux",
+            "WSL",
+            "Open a remote folder or workspace",
+            "How to Launch Visual Studio Code (VSCode) from Terminal",
+            "Installing the Jupyter Extension"
+        ],
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/02%20Python%20Setup/05%20Installing%20VS%20Code.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/02 Python Setup/06 Getting Started with Visual Studio Code.ipynb",
+        "name": "06 Getting Started with Visual Studio Code",
+        "table_of_content": [
+            "Opening VS Code in Different Directories and Files",
+            "Interface Tour",
+            "Extensions",
+            "Python Extension",
+            "Jupyter Extension",
+            "Basic Editing"
+        ],
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/02%20Python%20Setup/06%20Getting%20Started%20with%20Visual%20Studio%20Code.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/02 Python Setup/07 What is a Package Manager.ipynb",
+        "name": "07 What is a Package Manager",
+        "table_of_content": [
+            "How Package Managers Work",
+            "Scenario: Two People Creating Conda Environments",
+            "Benefits of Using a Package Manager"
+        ],
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/02%20Python%20Setup/07%20What%20is%20a%20Package%20Manager.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/02 Python Setup/08 Installing Conda.ipynb",
+        "name": "08 Installing Conda",
+        "table_of_content": [
+            "Understanding the Differences: Conda, Miniconda, and Anaconda",
+            "Why Prefer Miniconda",
+            "Installing miniconda with Command Line",
+            "Linux and Windows Subsystem for Linux (WSL)",
+            "macOS",
+            "Step by Step Installation Guide for Installing Conda with Command Line",
+            "Running Conda Initialization Manually",
+            "Conclusion"
+        ],
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/02%20Python%20Setup/08%20Installing%20Conda.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/02 Python Setup/09 Python Package Management System.ipynb",
+        "name": "09 Python Package Management System",
+        "table_of_content": [
+            "Package Repository",
+            "Conda vs. Pip",
+            "PyPI vs. Conda Forge",
+            "Dealing with PyPI-only Packages in Conda",
+            "Which Should You Use?",
+            "Python Environment and Package Management",
+            "Key Components",
+            "Python Environments",
+            "Python Interpreter",
+            "Packages and Dependencies",
+            "Package Managers (pip and conda)",
+            "Package Repositories (PyPI and Anaconda Channels)"
+        ],
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/02%20Python%20Setup/09%20Python%20Package%20Management%20System.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/02 Python Setup/10 Managing Python Packages with Conda.ipynb",
+        "name": "10 Managing Python Packages with Conda",
+        "table_of_content": [
+            "Conda Environments",
+            "Creating a New Environment",
+            "Activating and Deactivating Environments",
+            "Listing Environments and Packages",
+            "Removing Environments",
+            "Installing and Managing Packages",
+            "Installing Packages",
+            "Installing Packages with pip",
+            "Updating Packages",
+            "Removing Packages",
+            "Environment Files",
+            "Exporting an Environment",
+            "Creating an Environment from a File",
+            "Best Practices"
+        ],
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/02%20Python%20Setup/10%20Managing%20Python%20Packages%20with%20Conda.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/02 Python Setup/11 Using Conda Environments in VS Code.ipynb",
+        "name": "11 Using Conda Environments in VS Code",
+        "table_of_content": [
+            "Installing the VS Code Extension",
+            "Selecting a Conda Environment in VS Code",
+            "Activating a Conda Environment in the Integrated Terminal"
+        ],
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/02%20Python%20Setup/11%20Using%20Conda%20Environments%20in%20VS%20Code.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/02 Python Setup/12 Setting Up Jupyter Notebook with Conda.ipynb",
+        "name": "12 Setting Up Jupyter Notebook with Conda",
+        "table_of_content": [
+            "Configuring Conda Environment",
+            "Installing Jupyter Lab",
+            "Using Jupyter Lab in VS Code",
+            "Jupyter Lab vs. Jupyter Notebook",
+            "Conclusion"
+        ],
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/02%20Python%20Setup/12%20Setting%20Up%20Jupyter%20Notebook%20with%20Conda.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/03 Getting Started/01 How to Download Source Code.ipynb",
+        "name": "01 How to Download Source Code",
+        "table_of_content": [
+            "Method 1: Using the Download Button",
+            "Step 1: Download the Repository ZIP",
+            "Step 2: Extract the ZIP",
+            "Step 3: Open the Project in VS Code",
+            "Method 2: Using Git",
+            "Step 1: Install Git (if not already installed)",
+            "Step 2: Clone the Repository",
+            "Step 3: Update the Repository",
+            "Refreshing Files:"
+        ],
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/03%20Getting%20Started/01%20How%20to%20Download%20Source%20Code.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/04 Data Types/01 Basic Data Types.ipynb",
+        "name": "01 Basic Data Types",
+        "table_of_content": [
+            "Integers:",
+            "No Real Length Limit",
+            "Decimal Representation",
+            "Number Bases",
+            "Type of Integers",
+            "Floating-Point Numbers",
+            "Complex Numbers",
+            "Strings",
+            "Basic Representation of Strings",
+            "Including Quotes in Strings",
+            "Escape Sequences in Strings",
+            "Suppressing Special Character Meaning",
+            "Applying Special Meaning to Characters",
+            "Raw Strings",
+            "Triple-Quoted Strings",
+            "Boolean Type",
+            "Conclusion"
+        ],
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/04%20Data%20Types/01%20Basic%20Data%20Types.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/04 Data Types/02 Variables.ipynb",
+        "name": "02 Variables",
+        "table_of_content": [
+            "Variable Assignment",
+            "Variable Types in Python",
+            "Variable Names",
+            "PEP 8",
+            "Reserved Words (Keywords)",
+            "Constants in Python",
+            "Naming Convention",
+            "Conclusion",
+            "Practice Exercises"
+        ],
+        "practice_exercises": [
+            "## <a id='toc7_'></a>",
+            "## <a id='toc7_'></a>",
+            "Here are some exercises to help you practice what you've learned about variables, constants, and reserved keywords in Python:",
+            "1. **Simple Assignment** Create a variable named `fruit` and assign it the value \"apple\". Print the value of `fruit`. Change the value of `fruit` to \"banana\" and print it again.",
+            "2. **Using Constants** Make a constant named `MAX_SCORE` and set its value to 100. Try to change the value of `MAX_SCORE` to 90 and see what happens. Can you change it? Why?",
+            "3. **Variable Names** Create three variables: `myAge`, `my_name`, and `MyHeight`. Assign any values to these variables and print them.",
+            "4. **Reserved Keywords** Try to create a variable with the name `while`. What happens? Rename the variable to something that's not a reserved keyword and print its value.",
+            "5. **Multiple Assignments** Assign values to three variables `x`, `y`, and `z` in a single line. Print the values of `x`, `y`, and `z`."
+        ],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/04%20Data%20Types/02%20Variables.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/04 Data Types/03 Conversion Between Data Types.ipynb",
+        "name": "03 Conversion Between Data Types",
+        "table_of_content": [
+            "Introduction",
+            "Types of Type Conversion in Python",
+            "Python Implicit Type Conversion",
+            "Python Explicit Type Conversion (Typecasting)",
+            "Key Points to Remember"
+        ],
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/04%20Data%20Types/03%20Conversion%20Between%20Data%20Types.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/04 Data Types/04 Operators and Expresssions.ipynb",
+        "name": "04 Operators and Expresssions",
+        "table_of_content": [
+            "Basic Arithmetic Operators",
+            "Comparison Operators",
+            "Logical Operators",
+            "Assignment Operators",
+            "Membership Operators",
+            "(Optional) Bitwise Operators",
+            "Operator Precedence and Associativity",
+            "Operator Precedence",
+            "Associativity",
+            "Building Complex Expressions",
+            "1. Start Simple",
+            "2 Use Parentheses",
+            "Avoid Overcomplicating",
+            "Use Descriptive Variable Names",
+            "Test Each Part",
+            "Comment Your Code",
+            "Stay Updated with Language Features",
+            "Conclusion"
+        ],
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/04%20Data%20Types/04%20Operators%20and%20Expresssions.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/04 Data Types/05 Objects in Python.ipynb",
+        "name": "05 Objects in Python",
+        "table_of_content": [
+            "Diving into Object References",
+            "What is a reference?",
+            "How variables reference objects",
+            "Exploring Object Identity",
+            "The `id()` function and its significance",
+            "Using the `is` keyword",
+            "Difference between `is` and `==`",
+            "Common Pitfalls and Best Practices",
+            "Confusing `is` with `==`",
+            "Not Understanding Variable References",
+            "Conclusion and Key Takeaways"
+        ],
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/04%20Data%20Types/05%20Objects%20in%20Python.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/04 Data Types/06 Strings.ipynb",
+        "name": "06 Strings",
+        "table_of_content": [
+            "Why are Strings Important?",
+            "What is a string?",
+            "Creating and Assigning Strings in Python",
+            "Multiline Strings"
+        ],
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/04%20Data%20Types/06%20Strings.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/04 Data Types/07 Basic String Operations.ipynb",
+        "name": "07 Basic String Operations",
+        "table_of_content": [
+            "Concatenating Strings",
+            "Replicating Strings using Repetition",
+            "Checking for Substrings with `in`",
+            "Finding the Length of a String with `len()`",
+            "Accessing Characters using Indexing",
+            "String Slicing",
+            "Specifying a Stride in a String Slice"
+        ],
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/04%20Data%20Types/07%20Basic%20String%20Operations.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/04 Data Types/08 String Methods.ipynb",
+        "name": "08 String Methods",
+        "table_of_content": [
+            "Introduction to Objects",
+            "Introduction to Methods",
+            "String Methods",
+            "Changing Case",
+            "Checking String Characteristics",
+            "Searching and Replacing",
+            "Stripping Whitespaces",
+            "Splitting",
+            "Understanding the Immutability of Strings",
+            "So, How Do We 'Change' Strings?"
+        ],
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/04%20Data%20Types/08%20String%20Methods.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/04 Data Types/09 Basics of Input and Output.ipynb",
+        "name": "09 Basics of Input and Output",
+        "table_of_content": [
+            "Reading Input From the Keyboard",
+            "The `input()` Function",
+            "Writing Output to the Console",
+            "The Basic `print()` Function"
+        ],
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/04%20Data%20Types/09%20Basics%20of%20Input%20and%20Output.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/04 Data Types/10 String Formatting.ipynb",
+        "name": "10 String Formatting",
+        "table_of_content": [
+            "Introduction to String Formatting",
+            "The `.format()` Method",
+            "Introducing f-strings",
+            "Comparing .format() and f-strings",
+            "Conclusion"
+        ],
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/04%20Data%20Types/10%20String%20Formatting.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/04 Data Types/11 Escape Sequences and Raw Strings.ipynb",
+        "name": "11 Escape Sequences and Raw Strings",
+        "table_of_content": [
+            "Escape Sequences",
+            "Raw Strings",
+            "Practical Example: File Paths",
+            "Conclusion"
+        ],
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/04%20Data%20Types/11%20Escape%20Sequences%20and%20Raw%20Strings.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/04 Data Types/12 Composite Data Types.ipynb",
+        "name": "12 Composite Data Types",
+        "table_of_content": "",
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/04%20Data%20Types/12%20Composite%20Data%20Types.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/04 Data Types/13 Lists.ipynb",
+        "name": "13 Lists",
+        "table_of_content": [
+            "Creating Lists",
+            "Syntax for List Creation",
+            "Creating Empty Lists",
+            "Lists From Other Data Types",
+            "Creating Lists with `*` Operator",
+            "Creating Lists with Range",
+            "Using Built-in Functions with Lists",
+            "`len()`",
+            "`max()` and `min()`",
+            "`sum()`",
+            "Conclusion"
+        ],
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/04%20Data%20Types/13%20Lists.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/04 Data Types/14 Accessing and Modifying List Elements.ipynb",
+        "name": "14 Accessing and Modifying List Elements",
+        "table_of_content": [
+            "Accessing Elements Using Indexing",
+            "Accessing Elements Using Slicing",
+            "Updating Elements",
+            "Adding Elements to a List",
+            "Removing Elements",
+            "Conclusion"
+        ],
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/04%20Data%20Types/14%20Accessing%20and%20Modifying%20List%20Elements.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/04 Data Types/15 Common List Operations.ipynb",
+        "name": "15 Common List Operations",
+        "table_of_content": [
+            "List Concatenation and Replication",
+            "Membership Testing",
+            "Finding the Index of an Element",
+            "Counting the Number of Occurrences of an Element",
+            "Reversing the Order of a List",
+            "Sorting a List",
+            "Conclusion",
+            "Summary",
+            "Practice Exercises",
+            "Exercise 1: Create and Modify List",
+            "Exercise 2: Access and Slice",
+            "Exercise 3: List Membership Testing",
+            "Exercise 4: Concatenation and Repetition",
+            "Exercise 5: Iterating and Counting"
+        ],
+        "practice_exercises": [
+            "## <a id='toc9_'></a>",
+            "## <a id='toc9_'></a>",
+            "Now that we've covered the basics of lists and some fundamental operations, let's reinforce our understanding with a few exercises."
+        ],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/04%20Data%20Types/15%20Common%20List%20Operations.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/04 Data Types/16 Tuples.ipynb",
+        "name": "16 Tuples",
+        "table_of_content": [
+            "Creating and Accessing Tuples",
+            "Creating Tuples",
+            "Accessing Tuple Elements",
+            "Indexing",
+            "Slicing",
+            "Immutability of Tuples",
+            "Understanding Immutability",
+            "Putting Immutability to Work",
+            "Operations on Tuples",
+            "Concatenation",
+            "Repetition",
+            "Membership Testing",
+            "Count and Index Methods",
+            "Conclusion"
+        ],
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/04%20Data%20Types/16%20Tuples.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/04 Data Types/17 Dictionary.ipynb",
+        "name": "17 Dictionary",
+        "table_of_content": [
+            "Characteristics of Python Dictionaries",
+            "Dictionaries vs Lists",
+            "Why Use Dictionaries?",
+            "Creating Dictionaries in Python",
+            "Basic Syntax for Dictionary Creation",
+            "Empty Dictionary",
+            "Dictionary Initialization with Values",
+            "Using `dict()` Constructor",
+            "A Note on Keys",
+            "Conclusion"
+        ],
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/04%20Data%20Types/17%20Dictionary.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/04 Data Types/18 Accessing and Modifying Dictionary.ipynb",
+        "name": "18 Accessing and Modifying Dictionary",
+        "table_of_content": [
+            "Accessing Dictionary Values in Python",
+            "Accessing Values Using Keys",
+            "Handling Missing Keys with .get()",
+            "Using .get() Without a Default Value",
+            "Accessing All Keys or Values",
+            "Conclusion",
+            "Adding and Updating Dictionary Items in Python",
+            "Adding New Key-Value Pairs",
+            "Updating Existing Values",
+            "Using the `.update()` Method",
+            "Conclusion",
+            "Removing Items from a Dictionary in Python",
+            "Using the `del` Statement",
+            "Using the `.pop()` Method",
+            "Using the `.popitem()` Method",
+            "Clearing All Items",
+            "Conclusion",
+            "Practice Exercise"
+        ],
+        "practice_exercises": [
+            "The objective of this notebook is to provide in-depth coverage of the various operations you can perform with Python dictionaries. By the end of this tutorial, you will have a robust understanding of accessing, adding, updating, and removing items in dictionaries, along with hands-on practice exercises to consolidate your knowledge.",
+            "The objective of this notebook is to provide in-depth coverage of the various operations you can perform with Python dictionaries. By the end of this tutorial, you will have a robust understanding of accessing, adding, updating, and removing items in dictionaries, along with hands-on practice exercises to consolidate your knowledge.",
+            "*Table of contents**<a id='toc0_'></a> - - - - - - - - <!-- vscode-jupyter-toc-config numbering=false anchor=true flat=false minLevel=2 maxLevel=6 /vscode-jupyter-toc-config --> <!-- THIS CELL WILL BE REPLACED ON TOC UPDATE. DO NOT WRITE YOUR TEXT IN THIS CELL -->",
+            "## <a id='toc4_'></a> To reinforce the concepts we've covered about dictionaries in Python, let's work through an exercise. These will test your understanding of dictionary creation, manipulation, and data retrieval. 1. **Create a Dictionary**: Instantiate a dictionary `book_genre` that maps book titles to their respective genres. Add at least three key-value pairs to it. Example: One pair could be \"To Kill a Mockingbird\": \"Classic Fiction\". 2. **Retrieve and Print**: Given the `book_genre` dictionary, print the genre of \"To Kill a Mockingbird\". What happens if you try to print the genre of a book not present in your dictionary? 3. **Updating Dictionary Values**: For the `book_genre` dictionary, update the genre of one of your books to \"Literary Fiction\". Add a new book and its genre to the dictionary. 4. **Remove Items**: From the `book_genre` dictionary, remove a book of your choice using the `pop()` method and display the removed genre. Use the `del` statement to remove another book. Try using the `del` statement with a non-existent key and handle the `KeyError` with a try-except block. 5. **Iterating Over a Dictionary**: Create and print a list of all book titles (keys) in the `book_genre` dictionary. Create and print a list of all genres (values) in the `book_genre` dictionary without any duplicates. 6. **Dictionary Comprehension**: Create a dictionary `squared_numbers` using dictionary comprehension that maps numbers (1-10) to their squares. 7. **Nested Dictionaries**: Create a nested dictionary `library` where each key is a genre and each value is a dictionary of books of that genre. Add at least two genres, each with at least two books. 8. **Clearing a Dictionary**: Clear all contents of the `book_genre` dictionary and print its contents to confirm it's empty.",
+            "## <a id='toc4_'></a> To reinforce the concepts we've covered about dictionaries in Python, let's work through an exercise. These will test your understanding of dictionary creation, manipulation, and data retrieval. 1. **Create a Dictionary**: Instantiate a dictionary `book_genre` that maps book titles to their respective genres. Add at least three key-value pairs to it. Example: One pair could be \"To Kill a Mockingbird\": \"Classic Fiction\". 2. **Retrieve and Print**: Given the `book_genre` dictionary, print the genre of \"To Kill a Mockingbird\". What happens if you try to print the genre of a book not present in your dictionary? 3. **Updating Dictionary Values**: For the `book_genre` dictionary, update the genre of one of your books to \"Literary Fiction\". Add a new book and its genre to the dictionary. 4. **Remove Items**: From the `book_genre` dictionary, remove a book of your choice using the `pop()` method and display the removed genre. Use the `del` statement to remove another book. Try using the `del` statement with a non-existent key and handle the `KeyError` with a try-except block. 5. **Iterating Over a Dictionary**: Create and print a list of all book titles (keys) in the `book_genre` dictionary. Create and print a list of all genres (values) in the `book_genre` dictionary without any duplicates. 6. **Dictionary Comprehension**: Create a dictionary `squared_numbers` using dictionary comprehension that maps numbers (1-10) to their squares. 7. **Nested Dictionaries**: Create a nested dictionary `library` where each key is a genre and each value is a dictionary of books of that genre. Add at least two genres, each with at least two books. 8. **Clearing a Dictionary**: Clear all contents of the `book_genre` dictionary and print its contents to confirm it's empty."
+        ],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/04%20Data%20Types/18%20Accessing%20and%20Modifying%20Dictionary.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/04 Data Types/19 Dictionary Manipulation and Practical Uses.ipynb",
+        "name": "19 Dictionary Manipulation and Practical Uses",
+        "table_of_content": [
+            "Dictionary Operators",
+            "Membership Operator (`in` and `not in`)",
+            "Concatenation Operator",
+            "Multiplication Operator",
+            "Dict Methods and Functions",
+            "`.keys()` Method",
+            "`.values()` Method",
+            "`.items()` Method",
+            "`.get()` Method",
+            "`.update()` Method",
+            "`.pop()` Method",
+            "`.popitem()` Method",
+            "`.clear()` Method",
+            "`.setdefault()` Method",
+            "`len()` Function",
+            "`sorted()` Function",
+            "Nested Dictionaries in Python",
+            "Understanding Nested Dictionaries",
+            "Accessing Items in a Nested Dictionary",
+            "Modifying Nested Dictionary Values",
+            "Adding New Items to a Nested Dictionary",
+            "Working with Deeply Nested Dictionaries",
+            "Conclusion",
+            "Practice Exercise"
+        ],
+        "practice_exercises": [
+            "## <a id='toc4_'></a> After exploring the Python dictionaries, it's time to apply what we've learned. 1. **Membership Test**: Given a dictionary `city_presence = {'New York': True, 'Berlin': True, 'Tokyo': True, 'Sydney': True}`. Determine if 'London' and 'Tokyo' are keys in `city_presence` by using membership tests. 2. **Default Values with `setdefault`**: Create a dictionary `student_score = {'Alice': 88, 'Bob': 95}`. Use the `setdefault` method to return 'Bob's score and insert 'Charlie' with a score of 0 if he doesn't exist in the dictionary. Display the dictionary after this operation. 3. **Updating a Single Item**: Starting with the dictionary `preferences = {'color': 'blue', 'food': 'pizza', 'drink': 'water'}`. Update the value associated with the key 'drink' to 'orange juice'. 4. **Dictionary Merging and Updating**: Create two dictionaries: `stock_A = {'apples': 5, 'oranges': 7}` and `stock_B = {'oranges': 12, 'bananas': 3}`. Update `stock_A` with the contents of `stock_B` and observe how the value for 'oranges' changes. 5. **Nested Dictionary Access**: With a nested dictionary `account_info = {'user1': {'name': 'Alice', 'password': 'alice123'}, 'user2': {'name': 'Bob', 'password': 'bobsecure'}}`, access and display the password for 'user1'.",
+            "## <a id='toc4_'></a> After exploring the Python dictionaries, it's time to apply what we've learned. 1. **Membership Test**: Given a dictionary `city_presence = {'New York': True, 'Berlin': True, 'Tokyo': True, 'Sydney': True}`. Determine if 'London' and 'Tokyo' are keys in `city_presence` by using membership tests. 2. **Default Values with `setdefault`**: Create a dictionary `student_score = {'Alice': 88, 'Bob': 95}`. Use the `setdefault` method to return 'Bob's score and insert 'Charlie' with a score of 0 if he doesn't exist in the dictionary. Display the dictionary after this operation. 3. **Updating a Single Item**: Starting with the dictionary `preferences = {'color': 'blue', 'food': 'pizza', 'drink': 'water'}`. Update the value associated with the key 'drink' to 'orange juice'. 4. **Dictionary Merging and Updating**: Create two dictionaries: `stock_A = {'apples': 5, 'oranges': 7}` and `stock_B = {'oranges': 12, 'bananas': 3}`. Update `stock_A` with the contents of `stock_B` and observe how the value for 'oranges' changes. 5. **Nested Dictionary Access**: With a nested dictionary `account_info = {'user1': {'name': 'Alice', 'password': 'alice123'}, 'user2': {'name': 'Bob', 'password': 'bobsecure'}}`, access and display the password for 'user1'."
+        ],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/04%20Data%20Types/19%20Dictionary%20Manipulation%20and%20Practical%20Uses.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/04 Data Types/20 Sets.ipynb",
+        "name": "20 Sets",
+        "table_of_content": [
+            "Creating Sets in Python",
+            "Set Creation Syntax",
+            "Creating an Empty Set",
+            "Creating a Set from an Iterable",
+            "Sets from Strings",
+            "Handling Duplicates",
+            "Conclusion",
+            "Accessing Set Elements in Python",
+            "Membership Testing",
+            "Accessing Elements Indirectly",
+            "Conclusion",
+            "Adding and Updating Sets in Python",
+            "Adding Elements to a Set",
+            "The Uniqueness Constraint",
+            "Updating a Set with Multiple Elements",
+            "Duplicates in `.update()`",
+            "Using `|=`",
+            "Conclusion",
+            "Removing Items from a Set in Python",
+            "Using `.remove()` Method",
+            "Using `.discard()` Method",
+            "Using `.pop()` Method",
+            "Clearing a Set",
+            "Conclusion",
+            "A Note on Set Elements Limitation",
+            "Summary and Exercise"
+        ],
+        "practice_exercises": [
+            "## <a id='toc6_'></a>",
+            "## <a id='toc6_'></a>",
+            "In today's lecture, we embarked on our journey into the world of Python sets. We established the foundational knowledge required to work with this unique and powerful data type.",
+            "Here’s what we covered: We defined what sets are in Python and highlighted their key characteristics: unordered, mutable, and no duplicate elements. We distinguished sets from other data types like lists and dictionaries and discussed the scenarios in which sets are particularly useful. We walked through creating sets using literal syntax with curly braces `{}` and the `set()` constructor, as well as converting other iterables to sets. We discussed the crucial aspect of set uniqueness and how attempting to add duplicate elements to a set does not change its composition. We demonstrated how to add elements to a set using `.add()` and how to add multiple elements from any iterable using `.update()`. We learned how to remove elements using `.remove()`, `.discard()`, and `.pop()`, as well as how to clear a set with `.clear()`.",
+            "By now, you should feel comfortable creating sets, adding or removing items, and performing basic checks for membership.",
+            "Let's put into practice what we've learned about Python sets. The following exercises are designed to help you reinforce your understanding of set creation, manipulation, and the innate handling of unique items within sets. **Exercise 1:** Set Creation and Membership Create a set named `colors` that contains the colors 'red', 'green', 'blue', and 'yellow'. Verify if 'purple' is in the `colors` set. Add 'purple' to the set and check again. **Exercise 2:** Unique Elements Given the list `numbers_list = [1, 2, 3, 4, 3, 2, 1, 5, 6, 5, 4]`, create a set named `unique_numbers` from this list. Determine how many unique numbers are in `numbers_list` by checking the size of `unique_numbers`. **Exercise 3:** Adding Multiple Elements You have a set `flavors` containing 'chocolate', 'vanilla', and 'strawberry'. Update `flavors` to include 'mint' and 'bubble gum' using a single command. **Exercise 4:** Removing Elements There is a set `tools` with elements 'hammer', 'wrench', 'screwdriver', and 'pliers'. Remove 'wrench' from `tools` using `.remove()`. Then, using `.discard()`, attempt to remove 'saw' from `tools`. **Exercise 5:** Safe Element Removal Create a set `planets` including 'earth', 'jupiter', and 'mars'. Safely remove 'venus' from the set `planets` using a method that will not raise an error even if the item does not exist. **Exercise 6:** Clearing a Set Take the `planets` set and clear all of its elements, ensuring that it is emptied completely."
+        ],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/04%20Data%20Types/20%20Sets.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/04 Data Types/21 Set Operations.ipynb",
+        "name": "21 Set Operations",
+        "table_of_content": [
+            "Set Operations Basics",
+            "Union",
+            "Intersection",
+            "Difference",
+            "Symmetric Difference",
+            "Subset, Superset, and Disjoint",
+            "Conclusion",
+            "Differences Between Set Methods and Set Operators",
+            "Union: `|` vs. `.union()`",
+            "Intersection: `&` vs. `.intersection()`",
+            "Difference: `-` vs. `.difference()`",
+            "Symmetric Difference: `^` vs. `.symmetric_difference()`",
+            "Considerations for Choice",
+            "Conclusion",
+            "Practice Exercise"
+        ],
+        "practice_exercises": [
+            "## <a id='toc4_'></a>",
+            "## <a id='toc4_'></a>",
+            "Now it's time to apply what you've learned about set operations. Here’s an exercise that will help reinforce the differences between set methods and operators:",
+            "Given the following sets:",
+            "set_x = {10, 20, 30, 40, 50} set_y = {30, 40, 50, 60, 70} set_z = {5, 15, 25, 35}",
+            "Perform the following operations: 1. Find the union of `set_x` and `set_y` using both the `.union()` method and the `|` operator. Verify that the result is the same. 2. Compute the intersection of `set_x`, `set_y`, and `set_z` using the `.intersection()` method. 3. Determine the symmetric difference between `set_y` and `set_z` using both the `.symmetric_difference()` method and the `^` operator. Check if the outcomes match. 4. Use the difference operator `-` to find elements in `set_x` that are not in `set_y`. 5. Attempt to perform an operation that combines all three sets, `set_x`, `set_y`, and `set_z`, into a new set containing elements shared by at least two of the sets. Hint: You may need to use method chaining or additional parentheses with operators to achieve this."
+        ],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/04%20Data%20Types/21%20Set%20Operations.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/04 Data Types/22 Frozensets.ipynb",
+        "name": "22 Frozensets",
+        "table_of_content": [
+            "Creating Frozen Sets in Python",
+            "Syntax for Creating a `frozenset`",
+            "Converting Other Iterables into Frozen Sets",
+            "Unique Elements in Frozen Sets",
+            "Immutable Sets vs. Mutable Sets",
+            "Conclusion",
+            "Accessing Frozen Set Elements",
+            "Membership Testing",
+            "Unordered Nature",
+            "Conversion to Ordered Sequence",
+            "Conclusion",
+            "Operations on Frozen Sets in Python",
+            "Immutable Nature and Implications",
+            "Set Operations with `frozenset`",
+            "Using Operators with `frozenset`",
+            "Combining `frozenset` with Other Sets",
+            "Immutable Results",
+            "Conclusion",
+            "Practical Applications of Frozen Sets",
+            "Frozen Sets as Dictionary Keys",
+            "Frozen Sets in Other Data Structures",
+            "Frozen Sets for Constant Set Definitions",
+            "Frozen Sets for Safe Data Sharing",
+            "Conclusion",
+            "Performance Considerations for Frozen Sets",
+            "Conclusion",
+            "Conclusion",
+            "Practice Exercise"
+        ],
+        "practice_exercises": [
+            "## <a id='toc7_'></a>",
+            "## <a id='toc7_'></a>",
+            "To further solidify your understanding and skill in working with `frozenset`, here are some practical exercises to test your knowledge:",
+            "**Exercise 1: Creating and Using `frozenset`** Create a `frozenset` named `permissions` that contains the strings 'read', 'write', and 'execute'. Then, check to see if the permission 'delete' is included in the `permissions` set.",
+            "**Exercise 2: Set Operations with `frozenset`** Given `frozenset` A as `{1, 2, 3}` and `frozenset` B as `{2, 3, 4}`: Find the union of A and B. Determine the intersection. Calculate the difference between A and B.",
+            "**Exercise 3: Using `frozenset` as a Dictionary Key** Create a dictionary `graph` where each key is a `frozenset` representing an edge in a graph, and the value is the weight of that edge. Here's an example edge: a `frozenset` of nodes (1, 2) with an edge weight of 10. Add at least two more edges with different weights.",
+            "**Exercise 4: Converting to `frozenset`** Take the list `['apple', 'banana', 'apple', 'cherry']` and convert it into a `frozenset` named `unique_fruits`. Verify that duplicates have been removed by converting the `frozenset` back to a list and checking its contents."
+        ],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/04%20Data%20Types/22%20Frozensets.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/04 Data Types/23 Packing and Unpacking.ipynb",
+        "name": "23 Packing and Unpacking",
+        "table_of_content": [
+            "Introduction to Packing and Unpacking",
+            "Packing in Python",
+            "Unpacking in Python",
+            "Unpacking Sequences",
+            "Unpacking Tuples",
+            "Unpacking Lists",
+            "Extended Unpacking in Python 3",
+            "The `*` Operator in Unpacking",
+            "Using `*` with Lists",
+            "Unpacking Dictionaries",
+            "The `**` Operator and Dictionaries",
+            "Unpacking Keys",
+            "Best Practices and Common Pitfalls",
+            "Best Practices",
+            "Common Pitfalls",
+            "Practice Exercise",
+            "Solution"
+        ],
+        "practice_exercises": [
+            "## <a id='toc6_'></a>",
+            "## <a id='toc6_'></a>",
+            "In this exercise, you will practice using packing and unpacking techniques to work with Python's data types and collections. By manipulating lists, tuples, and dictionaries, you will gain hands-on experience with these methods and understand how they can be used to simplify data handling.",
+            "*Tasks:** 1. **Packing into Tuples**: Create a tuple called `student_info` by packing the following individual variables: `name`, `age`, `grade`, and `subject`, which hold a student's name, age, grade (as a letter), and favorite subject, respectively. 2. **Unpacking from Tuples**: Given a tuple `coordinates` with three elements representing x, y, and z coordinates, unpack these values into separate variables called `x`, `y`, and `z`. Print the variables. 3. **Unpacking from Lists**: Suppose you have a list of scores `[72, 85, 90]`. Unpack the scores into variables `math_score`, `science_score`, and `english_score`, respectively. Then, print these variables. 4. **Unpacking Dictionaries**: Given a dictionary `student`, with keys `name`, `age`, and `email`, unpack the values of this dictionary into variables `student_name`, `student_age`, and `student_email`. Print the variables. 5. **Extended Unpacking with Lists**: You have a list of numbers `[1, 2, 3, 4, 5, 6, 7, 8]`. Use extended unpacking to get the first two numbers into variables `first_num` and `second_num`, and the rest of the numbers into a list called `remaining_numbers`. 6. **Bonus: Swapping Values**: Without using a temporary variable, swap the values of two variables `a` and `b` using packing and unpacking.",
+            "*Sample Data:**",
+            "# For Task 1 name = \"Alice\" age = 17 grade = \"A\" subject = \"Mathematics\"",
+            "# For Task 2 coordinates = (4, 5, 6)",
+            "# For Task 4 student = { \"name\": \"Bob\", \"age\": 20, \"email\": \"bob@example.com\" }",
+            "*Expected Output:** ```bash # For Task 2 x: 4, y: 5, z: 6 # For Task 3 Math score: 72, Science score: 85, English score: 90 # For Task 4 Student Name: Bob, Student Age: 20, Student Email: bob@example.com # For Task 5 First number: 1, Second number: 2, Remaining numbers: [3, 4, 5, 6, 7, 8] ```",
+            "Use this exercise to practice and become comfortable with packing and unpacking values in Python. These techniques are powerful and can greatly streamline the process of working with variables and collections. Remember to keep your code neat and include comments explaining your logic. Happy coding!"
+        ],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/04%20Data%20Types/23%20Packing%20and%20Unpacking.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/05 Code Structure and Syntax/01 Introduction.ipynb",
+        "name": "01 Introduction",
+        "table_of_content": [
+            "Python Syntax Overview",
+            "Simple Statements",
+            "Compound Statements",
+            "Code Blocks and Indentation",
+            "Executing Python Scripts",
+            "The Importance of Readability"
+        ],
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/05%20Code%20Structure%20and%20Syntax/01%20Introduction.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/05 Code Structure and Syntax/02 Line Continuation.ipynb",
+        "name": "02 Line Continuation",
+        "table_of_content": [
+            "Implicit Line Continuation",
+            "Explicit Line Continuation",
+            "Multiple Statements Per Line"
+        ],
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/05%20Code%20Structure%20and%20Syntax/02%20Line%20Continuation.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/05 Code Structure and Syntax/03 Comments.ipynb",
+        "name": "03 Comments",
+        "table_of_content": [
+            "Using Comments Effectively",
+            "Single-Line Comments",
+            "Inline Comments",
+            "Commenting Out Code",
+            "Multi-Line Comments",
+            "Docstrings",
+            "Best Practices for Writing Comments"
+        ],
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/05%20Code%20Structure%20and%20Syntax/03%20Comments.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/05 Code Structure and Syntax/04 Whitespace and Indentation.ipynb",
+        "name": "04 Whitespace and Indentation",
+        "table_of_content": [
+            "Separating Tokens with Whitespace",
+            "Whitespace Requirements",
+            "Comments and Whitespace",
+            "Indentation",
+            "Whitespace Best Practices"
+        ],
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/05%20Code%20Structure%20and%20Syntax/04%20Whitespace%20and%20Indentation.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/06 Control Structures/01 Introduction to Control Structures.ipynb",
+        "name": "01 Introduction to Control Structures",
+        "table_of_content": [
+            "Sequential Control Structure",
+            "Selection Control Structures",
+            "The `if` Statement",
+            "The `else` and `elif` Statements",
+            "Nested Conditionals",
+            "Iteration Control Structures",
+            "The `for` Loop",
+            "The `while` Loop",
+            "Conclusion"
+        ],
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/06%20Control%20Structures/01%20Introduction%20to%20Control%20Structures.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/06 Control Structures/02 Conditional Statements.ipynb",
+        "name": "02 Conditional Statements",
+        "table_of_content": [
+            "The `if` Statement",
+            "The `else` Statement",
+            "The `elif` Statement",
+            "Understanding Truthy and Falsy Values in Python",
+            "What is Evaluated as `False`?",
+            "Nested Conditional Statements",
+            "Conditional Expressions (Ternary Operator)",
+            "Best Practices",
+            "Conclusion",
+            "Exercise: Basic Movie Ticket Pricing",
+            "Solution"
+        ],
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/06%20Control%20Structures/02%20Conditional%20Statements.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/06 Control Structures/03 for Loops.ipynb",
+        "name": "03 for Loops",
+        "table_of_content": [
+            "Definite Iteration in Programming",
+            "Numeric Range Loop",
+            "Three-Expression Loop",
+            "Collection-Based or Iterator-Based Loop",
+            "The `for` Loop in Python",
+            "Iterating Over Sequences",
+            "Lists",
+            "Tuples",
+            "Dictionaries",
+            "Sets",
+            "Strings",
+            "Using `range()`",
+            "Additional Functions in For Loops",
+            "The `enumerate()` Function",
+            "The `sorted()` Function",
+            "Nested Loops",
+            "Conclusion",
+            "Exercise: Processing and Analyzing Temperature Data",
+            "Solution"
+        ],
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/06%20Control%20Structures/03%20for%20Loops.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/06 Control Structures/04 while Loops.ipynb",
+        "name": "04 while Loops",
+        "table_of_content": [
+            "Writing `while` Loops with a Control Condition",
+            "Infinite Loops and How to Avoid Them",
+            "Nested `while` Loops",
+            "Conclusion",
+            "Exercise: Tracking a Savings Goal with While Loops",
+            "Solution"
+        ],
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/06%20Control%20Structures/04%20while%20Loops.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/06 Control Structures/05 Loop Control Statements.ipynb",
+        "name": "05 Loop Control Statements",
+        "table_of_content": [
+            "Loop Control Statements",
+            "The `break` Statement",
+            "The `continue` Statement",
+            "The `pass` Statement",
+            "Best Practices",
+            "Conclusion",
+            "Exercise: Controlling Loop Execution with `break`, `continue`, and `pass`",
+            "Solution"
+        ],
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/06%20Control%20Structures/05%20Loop%20Control%20Statements.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/06 Control Structures/06 Comprehensions.ipynb",
+        "name": "06 Comprehensions",
+        "table_of_content": [
+            "List Comprehensions",
+            "Set Comprehensions",
+            "Dictionary Comprehensions",
+            "Best Practices and Pitfalls",
+            "When to Use and When Not to Use Comprehensions",
+            "Keeping Comprehensions Readable and Maintainable",
+            "Exercise: Transforming and Filtering Data with Comprehensions",
+            "Solution",
+            "Exercise: Mastering Comprehensions in Python",
+            "Solution"
+        ],
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/06%20Control%20Structures/06%20Comprehensions.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/07 Functions/01 Introduction to Functions.ipynb",
+        "name": "01 Introduction to Functions",
+        "table_of_content": [
+            "What is a Function?",
+            "The Importance of Python Functions",
+            "Abstraction and Reusability",
+            "Modularity",
+            "Namespace Separation",
+            "Creating Your First Function",
+            "Function Definition Syntax",
+            "Function Calling Syntax",
+            "Your First Function",
+            "Using Parameters",
+            "Placeholder Functions with `pass`"
+        ],
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/07%20Functions/01%20Introduction%20to%20Functions.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/07 Functions/02 Defining and Calling Functions.ipynb",
+        "name": "02 Defining and Calling Functions",
+        "table_of_content": [
+            "What is a Function?",
+            "The DRY Principle",
+            "Defining a Function",
+            "Syntax of Defining a Function",
+            "Naming Conventions for Functions",
+            "Creating a Simple Function Example",
+            "Calling a Function",
+            "Flow of Execution When a Function is Called",
+            "Parameters and Arguments",
+            "The `return` Statement",
+            "Practice Exercise",
+            "Solution"
+        ],
+        "practice_exercises": [
+            "## <a id='toc6_'></a>",
+            "## <a id='toc6_'></a>",
+            "In this exercise, you will apply what you've learned about Python functions from this lecture. By defining and calling your own functions, you will practice creating modular and reusable code blocks. Functions are a fundamental aspect of Python programming, helping you adhere to the DRY (Don't Repeat Yourself) principle.",
+            "*Tasks:** 1. **Defining and Calling a Simple Function**: Define a function named `greet` that prints \"Hello, World!\" to the console. Then, call this function to see the greeting printed out. 2. **Creating a Function with Parameters**: Define a function called `personalize_greeting` that takes a name as a parameter and prints a personalized greeting, \"Hello, [name]!\". Replace `[name]` with the actual name provided. Call this function with your name as an argument. 3. **Calculating the Area of a Circle**: Define a function named `circle_area` that takes the radius of a circle as a parameter and returns the area of the circle. Use the formula `area = π * radius^2` for the calculation (`π` can be approximated as `3.14159`). Call this function with a radius of `5` and print the result. 4. **Using Multiple Parameters**: Define a function called `add_numbers` that takes two parameters and returns their sum. Call this function with two numbers of your choice and print the result. 5. **No Return Statement**: Define a function called `print_menu` that prints a list of food items to the console but does not return anything. Call this function to display the menu. 6. **Bonus: A Function that Returns Multiple Values**: Define a function called `min_max` that takes a list of numbers as a parameter and returns both the minimum and maximum numbers in the list. Call this function with a list of numbers and unpack the results into two variables, then print those variables.",
+            "*Expected Output:** ```bash Hello, World! Hello, Alice! The area of the circle with radius 5 is 78.53975. The sum of 3 and 7 is 10. Menu: Pizza, Salad, Soup Minimum: 2, Maximum: 10 ```",
+            "These tasks will reinforce the concepts covered in the lecture and help you become more familiar with defining and using functions in Python. Remember to use descriptive names for your functions and follow Python's naming conventions. Good luck, and enjoy writing your functions!"
+        ],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/07%20Functions/02%20Defining%20and%20Calling%20Functions.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/07 Functions/03 Argument Passing.ipynb",
+        "name": "03 Argument Passing",
+        "table_of_content": [
+            "Positional Arguments",
+            "Keyword Arguments",
+            "Default Parameters",
+            "Best Practices for Function Arguments in Python",
+            "Positional Arguments",
+            "Keyword Arguments",
+            "Default Parameters",
+            "Practice Exercise: A Day at the Zoo",
+            "Solution"
+        ],
+        "practice_exercises": [
+            "## <a id='toc5_'></a>",
+            "## <a id='toc5_'></a>",
+            "You are planning a visit to the local zoo with a group of students. The zoo has several sections for different kinds of animals, and each section has feeding times, special shows, and educational talks. To maximize the visit, you decide to write a Python program that helps organize the day's activities based on the group's preferences.",
+            "*Tasks:** 1. Write a function named `schedule_visit` that takes three parameters: `section` (the section of the zoo to visit, e.g., \"Reptiles\", \"Birds\"), `time` (the time you plan to visit that section), and `activity` with a default value of \"Feeding\". The function should print a message summarizing the visit plan for that section. 2. Call the `schedule_visit` function for the \"Reptiles\" section at \"10:00 AM\" without specifying an activity to use the default value. 3. Call the `schedule_visit` function for the \"Birds\" section at \"1:00 PM\" with the activity \"Educational Talk\". 4. Write a function named `add_special_request` that takes two parameters: `section` and `request` with a default value of \"None\". This function should print a message indicating any special requests for the visit to that section. If no special request is made, the function should print that no special requests have been made for this section. 5. Call the `add_special_request` function for the \"Reptiles\" section without specifying a request. 6. Call the `add_special_request` function for the \"Mammals\" section with a special request of \"Wheelchair Access\".",
+            "*Expected Output:** ```sh Planning to visit Reptiles section at 10:00 AM for a Feeding activity. Planning to visit Birds section at 1:00 PM for an Educational Talk activity. No special requests have been made for the Reptiles section. Special request for the Mammals section: Wheelchair Access. ```",
+            "This exercise engages you in applying the concepts of default parameters and function calls with both positional and keyword arguments. It is designed to reflect a practical scenario where such programming techniques can organize information efficiently and flexibly."
+        ],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/07%20Functions/03%20Argument%20Passing.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/07 Functions/04 Function Return Values.ipynb",
+        "name": "04 Function Return Values",
+        "table_of_content": [
+            "Returning Data to the Caller",
+            "Returning a Single Value",
+            "Returning Multiple Values",
+            "Default Return Value",
+            "Printing vs. Returning a Value",
+            "Exiting a Function",
+            "Immediate Exit with `return`",
+            "Using `return` for Control Flow",
+            "Functions with Multiple Return Statements",
+            "Best Practices and Common Mistakes",
+            "Practice Exercise: Temperature Conversion Tool with Data Validation",
+            "Solution"
+        ],
+        "practice_exercises": [
+            "## <a id='toc4_'></a>",
+            "## <a id='toc4_'></a>",
+            "You're tasked with improving your temperature conversion tool. Your objective is to add input validation to each function, ensuring that they handle incorrect or unexpected input gracefully by printing an error message and returning `None`. This added robustness will make your tool more user-friendly and reliable.",
+            "*Tasks:** 1. Update the function `celsius_to_fahrenheit` to check if the input is either an integer or a float. If the input is not a number, print an error message and return `None`. Otherwise, calculate and return the equivalent temperature in Fahrenheit using the formula: Fahrenheit = (Celsius * 9/5) + 32. 2. Revise the function `fahrenheit_to_celsius` in the same manner to validate the input. If the input is valid, use the formula: Celsius = (Fahrenheit - 32) * 5/9 to calculate and return the equivalent temperature in Celsius. 3. Modify the function `water_state` to ensure the input is a number (either an integer or a float). The function should return \"Solid\" if the temperature is below 0, \"Liquid\" if the temperature is between 0 and 100 inclusive, and \"Gas\" if the temperature is above 100. For non-numeric inputs, print an error message and return `None`. 4. Call `celsius_to_fahrenheit` with a valid value (e.g., 100) and an invalid value (e.g., \"hot\") and print the results. 5. Call `fahrenheit_to_celsius` with a valid value (e.g., 32) and an invalid value (e.g., \"cold\") and print the results. 6. Call `water_state` with a valid value (e.g., 25) and an invalid value (e.g., \"warm\") and print the results.",
+            "*Expected Output:** ```sh 100 Celsius is 212.0 Fahrenheit. Error: Invalid input. Please enter a numeric value. 32 Fahrenheit is 0.0 Celsius. Error: Invalid input. Please enter a numeric value. At 25 Celsius, water is in a Liquid state. Error: Invalid input. Please enter a numeric value. ```",
+            "*Hint:** To check if a value is a number, you can use the condition `(type(value) == int) or (type(value) == float)`. Ensure to display a user-friendly error message whenever you encounter invalid input, and then return `None`.",
+            "This exercise encourages you to practice implementing functions with return values while also focusing on input validation, making your functions more robust and enhancing the user experience by preventing and handling errors gracefully."
+        ],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/07%20Functions/04%20Function%20Return%20Values.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/07 Functions/05 Variable-Length Argument.ipynb",
+        "name": "05 Variable-Length Argument",
+        "table_of_content": [
+            "Argument Tuple Packing",
+            "Argument Tuple Unpacking",
+            "Unpacking Various Iterable Types",
+            "Combining Packing and Unpacking",
+            "Argument Dictionary Packing",
+            "Combining with Positional Arguments",
+            "Argument Dictionary Unpacking",
+            "Best Practices and Common Mistakes",
+            "Argument Tuple Packing",
+            "Argument Tuple Unpacking",
+            "Argument Dictionary Packing",
+            "Argument Dictionary Unpacking",
+            "Practice Exercise: Organizing a Coding Workshop",
+            "Solution"
+        ],
+        "practice_exercises": [
+            "## <a id='toc6_'></a>",
+            "## <a id='toc6_'></a>",
+            "You are organizing a coding workshop that covers various programming languages and tools. The workshop will have multiple sessions, and each session can cover different topics and have various numbers of speakers. You want to create a Python program to help organize the sessions more effectively, leveraging functions that can handle variable numbers of arguments.",
+            "*Tasks:** 1. Write a function named `plan_session` that uses tuple packing to accept a variable number of topics for a single session. The function should print out a list of topics planned for that session. 2. Write a function named `session_details` that uses dictionary packing to accept various details about the session like the session's name, number of attendees, and room number. The function should print out all the details provided. 3. Use argument tuple unpacking to call `plan_session` with a list of topics stored in a tuple for the session \"Web Development Basics\". 4. Use argument dictionary unpacking to call `session_details` with details stored in a dictionary for the session \"Web Development Basics\". 5. Combine both packing and unpacking techniques to organize a session named \"Advanced Python\", which includes unpacking a list of topics and unpacking session details from a dictionary.",
+            "*Expected Output:** ```sh Topics planned for this session: ['Python Basics', 'Data Types Fundamentals', 'Functions'] Session Details: Name: Python Development Basics Attendees: 40 Room: 105 Topics planned for this session: ['Object Oriented Programming', 'Modules'] Session Details: Name: Advanced Python Attendees: 25 Room: 203 ```",
+            "This exercise will help you practice the use of variable-length argument handling in Python, including both packing and unpacking techniques, in the context of a practical scenario. By completing these tasks, you will gain a deeper understanding of how to utilize these features to make your functions more flexible and adaptable to various inputs."
+        ],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/07%20Functions/05%20Variable-Length%20Argument.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/07 Functions/06 Function Documentation.ipynb",
+        "name": "06 Function Documentation",
+        "table_of_content": [
+            "The Importance of Documenting Functions",
+            "Docstrings: The Basics",
+            "Writing Effective Docstrings",
+            "Style",
+            "Example",
+            "Accessing Docstrings",
+            "Using the help() Function",
+            "Using the .__doc__ Attribute",
+            "Practical Example",
+            "Interactive Environments",
+            "Docstring Styles",
+            "Google Style",
+            "NumPy/SciPy Style",
+            "reStructuredText (reST)",
+            "Epytext",
+            "Choosing a Style",
+            "Annotations and Type Hints",
+            "Syntax",
+            "Benefits",
+            "Using Type Hints with Docstrings",
+            "Practice Exercise",
+            "Solution"
+        ],
+        "practice_exercises": [
+            "## <a id='toc7_'></a>",
+            "## <a id='toc7_'></a>",
+            "For this exercise, you will practice writing a well-documented function in Python. This includes creating a comprehensive docstring and using type hints to enhance the clarity and usability of your code. By doing so, you will help future developers—or your future self—understand the purpose and use of your function quickly and easily.",
+            "*Scenario:** Imagine you have written a function that calculates the area of a rectangle. Your task is to document this function properly using a docstring that includes a description of the function, its parameters, return value, and any additional information you think is relevant. You will also use type hints to indicate the expected data types for the function's parameters and return value.",
+            "*Tasks:** 1. **Write the Function**: Define a function named `calculate_rectangle_area` that takes two parameters, `width` and `height`, which represent the dimensions of a rectangle. 2. **Add a Docstring**: Write a docstring for the `calculate_rectangle_area` function. Make sure to include: A brief description of what the function does. Descriptions of the parameters `width` and `height`. The expected return value description. 3. **Include Type Hints**: Add type hints to the function's parameters and return value. Assume the dimensions will be passed as floating-point numbers and the function will return the area as a floating-point number. 4. **Access the Docstring**: Write code that prints the docstring of the `calculate_rectangle_area` function using both the `help()` function and the `.__doc__` attribute. 5. **Bonus: Explore Docstring Styles**: Choose one of the docstring styles mentioned in the lecture (Google, NumPy/SciPy, reStructuredText, Epytext) and rewrite the docstring of your function to match that style.",
+            "Complete these tasks to ensure that your `calculate_rectangle_area` function is well-documented and that anyone reading the code can understand how to use it. Remember, good documentation is as important as writing good code!"
+        ],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/07%20Functions/06%20Function%20Documentation.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/07 Functions/07 Lambda Functions.ipynb",
+        "name": "07 Lambda Functions",
+        "table_of_content": [
+            "Understanding Lambda Functions",
+            "What Are Lambda Functions?",
+            "The Syntax of Lambda Functions",
+            "When to Use Lambda Functions",
+            "Appropriate Use Cases for Lambda Functions",
+            "Limitations of Lambda Functions",
+            "Writing Lambda Functions",
+            "Basic Examples of Lambda Functions",
+            "Lambda Functions with Different Numbers of Arguments",
+            "Lambda Functions with Built-in Functions",
+            "Using Lambda Functions with `filter()`",
+            "Using Lambda Functions with `map()`",
+            "Best Practices for Lambda Functions",
+            "When to Use and When to Avoid Lambda Functions",
+            "Readability and Maintenance Considerations",
+            "Practice Exercise",
+            "Solution"
+        ],
+        "practice_exercises": [
+            "## <a id='toc6_'></a>",
+            "## <a id='toc6_'></a>",
+            "Lambda functions, also known as anonymous functions, are a key feature of Python that allows for creating small, one-time-use functions without the need for a formal function definition. In this exercise, you will get to practice writing and using lambda functions in different scenarios, which will help you understand when and how to use them effectively.",
+            "*Tasks:** 1. **Create a Simple Lambda Function**: Write a lambda function that takes a single argument `x` and returns the square of `x`. Demonstrate its use by passing a number and printing the result. 2. **Lambda with Multiple Arguments**: Define a lambda function that takes two arguments, `a` and `b`, and returns their product. Use the function to calculate the product of two numbers and print the result. 3. **Combining Lambda with `filter()`**: Given the list of ages, use a lambda function with the `filter()` function to create a list of all ages that are 18 or above (legal adulthood). Print the filtered list. ```python ages = [14, 18, 21, 16, 30, 45, 17, 22, 61] ``` 4. **Using Lambda with `map()`**: You have a list of prices in dollars. Use a lambda function with `map()` to apply a 10% discount to each price. Print the list of discounted prices. ```python prices = [19.99, 35.50, 89.99, 43.75] ``` 5. **Lambda with Built-in Functions - Sorting**: You have a list of tuples where each tuple contains the name of a product and its corresponding price. Use a lambda function as a key argument to the `sorted()` function to sort these products by price in ascending order. Print the sorted list. ```python products = [('apple', 1.0), ('banana', 0.5), ('cherry', 1.5), ('date', 0.75)] ``` 6. **Bonus: Lambda for Custom Sorting**: Imagine you have a list of dictionaries where each dictionary contains information about a book, specifically its title and the year it was published. Write a lambda function to sort the list of books by year of publication, from the oldest to the newest. Print the sorted list. ```python books = [ {'title': 'Book A', 'year': 2001}, {'title': 'Book B', 'year': 1999}, {'title': 'Book C', 'year': 2010}, {'title': 'Book D', 'year': 1985} ] ```",
+            "*Sample Output:** ```bash Square of 5 is 25 Product of 4 and 6 is 24 Adult ages: [18, 21, 30, 45, 22, 61] Discounted prices: [17.991, 31.95, 80.991, 39.375] Sorted products by price: [('banana', 0.5), ('date', 0.75), ('apple', 1.0), ('cherry', 1.5)] Sorted books by year: [{'title': 'Book D', 'year': 1985}, {'title': 'Book B', 'year': 1999}, {'title': 'Book A', 'year': 2001}, {'title': 'Book C', 'year': 2010}] ```",
+            "Use this exercise to practice the syntax and applications of lambda functions. Remember that while lambda functions can be powerful and convenient for short, simple operations, readability and maintainability should always be considered when deciding whether to use them in your code."
+        ],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/07%20Functions/07%20Lambda%20Functions.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/07 Functions/08 Built-in Functions.ipynb",
+        "name": "08 Built-in Functions",
+        "table_of_content": [
+            "Common Types of Built-in Functions",
+            "Numeric Functions",
+            "String Functions",
+            "Iteration Functions",
+            "Best Practices When Using Built-in Functions",
+            "Efficiency Considerations",
+            "Readability and Maintainability",
+            "Practice Exercise",
+            "Solution"
+        ],
+        "practice_exercises": [
+            "## <a id='toc3_'></a>",
+            "## <a id='toc3_'></a>",
+            "In this exercise, you will apply the knowledge you've gained about Python's built-in functions. Python provides a variety of built-in functions that can perform common tasks on various data types, such as strings, numbers, and lists. These functions are always available and do not require any additional imports, making them highly convenient for everyday coding tasks.",
+            "Your challenge is to use the appropriate built-in functions to handle different data types and achieve specific outcomes. Below are the tasks that will test your understanding and ability to apply built-in functions effectively.",
+            "*Given Data:**",
+            "text = \"The quick brown fox jumps over the lazy dog\" numbers_list = [8, 23, 45, 12, 78] mixed_list = [\"hello\", 10, \"world\", 42]",
+            "*Tasks:** 1. **String Analysis**: Find and print the number of characters in the `text` string using a built-in function. Convert the `text` string to uppercase and print the result. 2. **Numeric Calculations**: Calculate and print the sum of all the numbers in `numbers_list`. Find and print the maximum and minimum numbers in `numbers_list`. 3. **List Manipulation**: Use a built-in function to count the number of times the number `10` appears in `mixed_list`. Print a sorted version of `numbers_list` in descending order without modifying the original list. 4. **Iterating with Built-in Functions**: Use a built-in function to iterate over `text` and print each word, but only if the word is not \"the\". Apply a built-in function to `numbers_list` to create a new list where each number is squared (i.e., number^2). Print the new list.",
+            "*Expected Output:** ```bash Number of characters: 43 Uppercase text: THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG Sum of numbers: 166 Maximum number: 78 Minimum number: 8 Occurrences of 10: 1 Sorted numbers (descending): [78, 45, 23, 12, 8] Iterated words (excluding 'the'): quick, brown, fox, jumps, over, lazy, dog Squared numbers: [64, 529, 2025, 144, 6084] ```",
+            "Use this exercise to strengthen your understanding of when and how to use built-in functions in Python. Remember, built-in functions are designed to make your code more readable and efficient. Make sure to test your code after you write it to ensure it produces the correct output."
+        ],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/07%20Functions/08%20Built-in%20Functions.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/08 File Handling/01 Introduction to File Handling.ipynb",
+        "name": "01 Introduction to File Handling",
+        "table_of_content": [
+            "What are files?",
+            "Text Files",
+            "Binary Files",
+            "Why is file handling important?",
+            "Basic file handling operations",
+            "Open",
+            "Read",
+            "Write",
+            "Close",
+            "Opening a file in Python",
+            "The `open()` function and its modes",
+            "Code examples showing how to open files in different modes",
+            "Text files vs. binary files",
+            "Use cases for each type",
+            "The importance of closing files and using `with` statements for safety",
+            "Introduction to the `with` statement and context managers",
+            "Practice Exercise",
+            "Solution"
+        ],
+        "practice_exercises": [
+            "## <a id='toc7_'></a>",
+            "## <a id='toc7_'></a>",
+            "For this exercise, you will apply the concepts learned in the lecture by performing basic file handling operations in Python. You will work with text files and practice opening, reading, writing, and closing them, as well as using the `with` statement to handle files safely.",
+            "*Tasks:** 1. **Read from a Text File**: Given a text file named `example.txt` with some content, write a Python script to open the file in read mode and print its contents to the console. 2. **Write to a Text File**: Create a new text file named `output.txt` and write multiple lines of text to it using Python. Then, reopen the file in read mode and print its contents to verify that the writing was successful. 3. **Append to a Text File**: Reopen the `output.txt` file in append mode and add a new line of text. After appending, read and print the entire file to see the updated contents. 4. **Using the `with` Statement**: Modify the previous tasks to use the `with` statement to ensure that the file is properly closed after the operations are completed. 5. **Bonus: Type Hinting and Docstrings**: Write a function that takes a file name and a mode as parameters, opens the file with the given mode, and prints its contents. Include a docstring that explains the function's purpose, parameters, and behavior. Also, use type hints to indicate the types of the parameters.",
+            "*Sample Data for Task 1:** Create an `example.txt` file with the following content: ```sh Hello, World! This is a sample text file. ```",
+            "*Expected Output for Task 1:** ```sh Hello, World! This is a sample text file. ```",
+            "*Expected Output for Task 2 and 3:** ```sh This is the first line. This is the second line. ``` (And after appending) ```sh This is the first line. This is the second line. This is a new line added in append mode. ```",
+            "Use this exercise to practice file handling, ensuring that you understand how to work with files in Python and the significance of closing files or using the `with` statement to manage file resources. Additionally, the bonus task will help you get familiar with writing annotated functions and documenting them using docstrings."
+        ],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/08%20File%20Handling/01%20Introduction%20to%20File%20Handling.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/08 File Handling/02 Reading from Files.ipynb",
+        "name": "02 Reading from Files",
+        "table_of_content": [
+            "Opening Files for Reading ('r' mode)",
+            "How to Open a File Using `open()`",
+            "The `read()`, `readline()`, and `readlines()` Methods",
+            "The `read()` Method",
+            "The `readline()` Method",
+            "The `readlines()` Method",
+            "Iterating Over File Objects Line by Line",
+            "Efficiency Benefits",
+            "Working with File Paths (Absolute vs. Relative)",
+            "Understanding File Paths",
+            "Platform-Independent File Paths",
+            "Exercise: Exploring File Reading Techniques in Python",
+            "Solution"
+        ],
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/08%20File%20Handling/02%20Reading%20from%20Files.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/08 File Handling/03 Writing to Files.ipynb",
+        "name": "03 Writing to Files",
+        "table_of_content": [
+            "Opening Files for Writing",
+            "Using `open()` to Create File Objects for Writing",
+            "The Difference Between Writing to a New File vs. an Existing File",
+            "The `write()` Method",
+            "The Concept of Strings and How They Are Written to Files",
+            "The `writelines()` Method",
+            "The Difference between `write()` and `writelines()`",
+            "Truncating and Overwriting vs. Appending",
+            "Append to the End of a File with Mode `'a'`",
+            "Potential Risks of Overwriting Data and How to Prevent It",
+            "File Buffering and Flushing",
+            "Practical Examples",
+            "Example: Writing Log Data to a File",
+            "Example: Generating and Saving a Report",
+            "Practice Exercise",
+            "Solution"
+        ],
+        "practice_exercises": [
+            "## <a id='toc7_'></a>",
+            "## <a id='toc7_'></a>",
+            "In this exercise, you will be applying the concepts you've learned in Lecture 3 about writing to files. You will practice opening files, writing to them, and ensuring data is properly saved. This exercise will give you hands-on experience with file I/O, which is a crucial skill for any Python programmer.",
+            "*Scenario:** You are tasked with creating a simple note-taking application that allows users to save notes to a file. Additionally, you will generate a report that summarizes the number of notes taken each session.",
+            "*Tasks:** 1. **Create a New Note**: Write a function `create_note()` that takes a filename and a note (string) as parameters. The function should open the specified file in write mode and save the note to the file. If the file already exists, it should be overwritten. 2. **Add to an Existing Note**: Write a function `add_to_note()` that takes a filename and a note (string) as parameters. The function should open the specified file in append mode and add the note to the end of the file. 3. **Save Multiple Notes**: Write a function `save_notes()` that takes a filename and a list of notes. The function should use the `writelines()` method to write each note to the file. Ensure each note is on a new line. 4. **Generate a Summary Report**: After saving notes, write a function `generate_report()` that reads the file containing the notes and generates a report. The report should count the number of notes and summarize the content by showing the first 15 characters of each note. Save this report to a new file. 5. **Bonus: Log Each Action**: Create a function `log_action()` that takes a log message and writes it to a log file with the current timestamp. Use this function to log every time a note is created, appended, or when a report is generated.",
+            "*Sample Output:** ```sh Note created: 'Meeting at 10am...' Note appended: 'Buy groceries...' Notes saved: ['Meeting at 10am...', 'Buy groceries...', 'Call Alice...'] Report generated: 'Notes_Report.txt' ```",
+            "Use this exercise to solidify your understanding of file operations in Python, including the various modes for opening files, writing strings and lists of strings to files, and handling file buffering. Remember to include error handling in your functions to manage situations like missing files or write permissions. Good luck!"
+        ],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/08%20File%20Handling/03%20Writing%20to%20Files.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/09 Object Oriented Programming/01 Programming Paradigms.ipynb",
+        "name": "01 Programming Paradigms",
+        "table_of_content": [
+            "Programming Paradigm Overview",
+            "What is a Programming Paradigm?",
+            "What a Programming Paradigm is Not",
+            "Imperative Programming Paradigm",
+            "Procedural Programming",
+            "Object-Oriented Programming (OOP)",
+            "Declarative Programming Paradigm",
+            "Functional Programming",
+            "Logic Programming",
+            "Database Querying",
+            "Comparing Programming Paradigms",
+            "Imperative Programming",
+            "Declarative Programming",
+            "Declarative: Functional Programming",
+            "Imperative: Object-Oriented Programming",
+            "Guidelines on Choosing the Appropriate Paradigm",
+            "Conclusion"
+        ],
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/09%20Object%20Oriented%20Programming/01%20Programming%20Paradigms.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/09 Object Oriented Programming/02 Introduction to Object Oriented Programming.ipynb",
+        "name": "02 Introduction to Object Oriented Programming",
+        "table_of_content": [
+            "Core Concepts of OOP",
+            "Classes and Objects",
+            "Attributes and Methods",
+            "Encapsulation",
+            "Inheritance",
+            "Polymorphism",
+            "Abstraction",
+            "Advantages and Disadvantages of OOP",
+            "Conclusion"
+        ],
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/09%20Object%20Oriented%20Programming/02%20Introduction%20to%20Object%20Oriented%20Programming.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/09 Object Oriented Programming/03 OOP in Python.ipynb",
+        "name": "03 OOP in Python",
+        "table_of_content": [
+            "Basic Concepts of OOP in Python",
+            "What is a Class?",
+            "What is an Object?",
+            "Simple Class Creation Example in Python",
+            "Instantiating Objects from a Class",
+            "Key Features of Python OOP",
+            "Encapsulation",
+            "Inheritance",
+            "Polymorphism",
+            "Abstraction",
+            "Practical Example: Car Class",
+            "Instantiating an Object and Calling its Method:",
+            "Conclusion",
+            "Major Takeaways",
+            "Looking Ahead"
+        ],
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/09%20Object%20Oriented%20Programming/03%20OOP%20in%20Python.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/09 Object Oriented Programming/04 Classes and Objects.ipynb",
+        "name": "04 Classes and Objects",
+        "table_of_content": [
+            "Defining a Simple Class in Python",
+            "Introducing  Methods",
+            "Instantiate an Object from the Class",
+            "Clarifying the Necessity of Passing `obj` to Methods",
+            "Instance Methods and the Use of `self`",
+            "Understanding `self`",
+            "Practical Code Examples Using `self`",
+            "Why `self` is Necessary",
+            "The Role of `__init__` Method in Python Classes",
+            "Modifying the Car Class to Include the `__init__` Method",
+            "Classes vs. Instances Attributes",
+            "Class Attributes",
+            "Instance Attributes",
+            "Instantiating Objects",
+            "Creating Objects from a Class",
+            "Accessing Attributes and Invoking Methods",
+            "Maintaining Unique State",
+            "Practical Example: Enhancing the Car Class",
+            "Exercise: Building and Enhancing a `Book` Class",
+            "Solution"
+        ],
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/09%20Object%20Oriented%20Programming/04%20Classes%20and%20Objects.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/09 Object Oriented Programming/05 the __init__ Method.ipynb",
+        "name": "05 the __init__ Method",
+        "table_of_content": [
+            "Anatomy of the `__init__` Method",
+            "Basic Syntax and Structure",
+            "The Significance of the `self` Parameter",
+            "Parameters and Arguments in `__init__`",
+            "Initializing Object Attributes with `__init__`",
+            "Practical Example",
+            "Exercise: Building and Initializing a Classroom",
+            "Solution"
+        ],
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/09%20Object%20Oriented%20Programming/05%20the%20__init__%20Method.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/09 Object Oriented Programming/06 OOP Feature: Inheritance.ipynb",
+        "name": "06 OOP Feature: Inheritance",
+        "table_of_content": [
+            "The Basics of Inheriting Classes",
+            "Adding and Overriding Methods",
+            "The `super()` Function and Method Overriding",
+            "Exercise: Crafting an Employee Inheritance Structure",
+            "Solution"
+        ],
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/09%20Object%20Oriented%20Programming/06%20OOP%20Feature:%20Inheritance.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/09 Object Oriented Programming/07 Types of Inheritance.ipynb",
+        "name": "07 Types of Inheritance",
+        "table_of_content": [
+            "Single Inheritance: Basics and Benefits",
+            "Multilevel Inheritance: Advantages and Challenges",
+            "Hierarchical Inheritance: Structure and Scenarios",
+            "Multiple Inheritance: Concepts and Complexities (Optional)",
+            "Exercise: Exploring Inheritance in Python",
+            "Solution"
+        ],
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/09%20Object%20Oriented%20Programming/07%20Types%20of%20Inheritance.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/09 Object Oriented Programming/08 Object Relationships.ipynb",
+        "name": "08 Object Relationships",
+        "table_of_content": [
+            "Association in Object-Oriented Programming",
+            "Example 1: The Doctor and Stethoscope Relationship",
+            "Example 2: The Owner and Dog Relationship",
+            "Aggregation: Understanding \"Whole-Part\" Relationships",
+            "Example: The Team and Player Relationship",
+            "Example: The Dog and Its Collar Relationship",
+            "Composition: Navigating Strong \"Whole-Part\" Relationships",
+            "How Composition Differs from Aggregation",
+            "Example: The Computer, Processor, Memory, and HardDrive Relationship",
+            "Additional Example: The Dog and Its Tail",
+            "Inheritance: Building Hierarchies in OOP",
+            "Example: The Pet and Dog Hierarchical Relationship",
+            "Inheritance vs. Association: Clarifying the Distinctions",
+            "Practical Applications of Relationship Types: When to Use Association, Aggregation, Composition, and Inheritance",
+            "When to Use Association",
+            "When to Use Aggregation",
+            "When to Use Composition",
+            "When to Use Inheritance",
+            "Decision Making",
+            "Designing with Object Relationships",
+            "Best Practices for Implementing OOP Relationships",
+            "Avoiding Common Pitfalls in Designing Relationships",
+            "Exercise: Implementing Object Relationships in a Zoological Simulation",
+            "Solution"
+        ],
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/09%20Object%20Oriented%20Programming/08%20Object%20Relationships.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/09 Object Oriented Programming/09 OOP Feature: Polymorphism.ipynb",
+        "name": "09 OOP Feature: Polymorphism",
+        "table_of_content": [
+            "Implementing Polymorphism in Inheritance",
+            "Dynamic Typing and Polymorphic Behavior",
+            "Dynamic Typing in Action",
+            "Advantages and Pitfalls of Dynamic Typing and Polymorphism",
+            "Exercise: Polymorphism and Dynamic Typing in Python",
+            "Solution"
+        ],
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/09%20Object%20Oriented%20Programming/09%20OOP%20Feature:%20Polymorphism.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/09 Object Oriented Programming/10 OOP Feature: Encapsulation.ipynb",
+        "name": "10 OOP Feature: Encapsulation",
+        "table_of_content": [
+            "The Foundations of Encapsulation",
+            "Public Attributes and Methods",
+            "Defining and Accessing Public Members in Python",
+            "Protected Attributes and Methods",
+            "Defining and Accessing Protected Members in Python",
+            "Private Attributes and Methods",
+            "Defining and Accessing Private Members in Python",
+            "Summary",
+            "Name Mangling in Python",
+            "Practical Examples: Modifying Access to Class Members",
+            "A Simple Class Example: A Blog Post System",
+            "Choosing the Appropriate Access Level",
+            "Advantages of Using Access Modifiers"
+        ],
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/09%20Object%20Oriented%20Programming/10%20OOP%20Feature:%20Encapsulation.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/09 Object Oriented Programming/11 OOP Feature: Abstract Base Classes.ipynb",
+        "name": "11 OOP Feature: Abstract Base Classes",
+        "table_of_content": [
+            "How to Define Abstract Base Classes",
+            "Using the `abc` Module",
+            "The ABC Module and Its Importance",
+            "Enhancing Code Reliability and Maintainability",
+            "Real-world Applications",
+            "Implementing Interfaces through Abstract Classes",
+            "How to Implement an Interface using an Abstract Class",
+            "Example: A Payment Processor Interface",
+            "Practical Applications and Limitations of Abstract Base Classes and Interfaces",
+            "Practical Applications",
+            "Limitations",
+            "Best Practices",
+            "Conclusion"
+        ],
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/09%20Object%20Oriented%20Programming/11%20OOP%20Feature:%20Abstract%20Base%20Classes.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/09 Object Oriented Programming/12 Overriding.ipynb",
+        "name": "12 Overriding",
+        "table_of_content": [
+            "Basic Example of Method Overriding",
+            "The `super()` Function",
+            "Example 1: Extending Functionality with `super()`",
+            "Example 2: Using `super()` in the `__init__` Method",
+            "Overriding Special Methods",
+            "Overriding `__str__` for Custom String Representation",
+            "Overriding `__repr__` for Unambiguous Representations",
+            "Overriding `__eq__` for Custom Equality Checking",
+            "Customizing Behavior of Built-in Operations and Functions",
+            "Method Overriding Best Practices",
+            "When to Use Method Overriding",
+            "Best Practices",
+            "Common Pitfalls"
+        ],
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/09%20Object%20Oriented%20Programming/12%20Overriding.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/09 Object Oriented Programming/13 The Magic Methods.ipynb",
+        "name": "13 The Magic Methods",
+        "table_of_content": [
+            "Representing Objects as Strings: `__str__` and `__repr__`",
+            "`__str__`: User-Friendly String Representation",
+            "`__repr__`: Unambiguous Representation for Debugging",
+            "Getting the Length of an Object: `__len__`",
+            "Numeric Operations Magic Methods: Enabling Arithmetic in Custom Objects",
+            "Arithmetic Magic Methods Overview",
+            "Example: Implementing Arithmetic Operations in a Custom Class",
+            "Comparison Magic Methods: Enabling Rich Comparisons Between Objects",
+            "Equality and Inequality: `__eq__` and `__ne__`",
+            "Ordering: `__lt__`, `__le__`, `__gt__`, `__ge__`",
+            "Object Initialization and Destruction: `__init__` and `__del__` Magic Methods",
+            "`__init__`: Initializing Objects",
+            "`__del__`: Cleaning Up Objects",
+            "Emulating Container Types: `__getitem__` and `__setitem__`",
+            "`__getitem__`: Accessing Items",
+            "`__setitem__`: Setting Items",
+            "Making Objects Callable: `__call__`"
+        ],
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/09%20Object%20Oriented%20Programming/13%20The%20Magic%20Methods.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/09 Object Oriented Programming/14 Static and Class Methods.ipynb",
+        "name": "14 Static and Class Methods",
+        "table_of_content": [
+            "Instance Methods",
+            "Static Methods",
+            "Syntax",
+            "Practical Exercise: Enhance a Class by Integrating a Static Method",
+            "Understanding Class Methods",
+            "Syntax",
+            "Practical Exercise: Implement a Class Method to Modify Class State",
+            "Comparison between Instance, Static, and Class Methods",
+            "When to Use Each Type",
+            "Key Differences in Their Signatures and Effects",
+            "Real-world Application Scenarios"
+        ],
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/09%20Object%20Oriented%20Programming/14%20Static%20and%20Class%20Methods.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/10 Modular Programming/-- 07 Debugging Techniques in VSCode.ipynb",
+        "name": "-- 07 Debugging Techniques in VSCode",
+        "table_of_content": [
+            "Setting Up VSCode for Python Debugging",
+            "Debugger Extensions",
+            "Configuring Python Interpreter",
+            "User Interface Overview",
+            "Verifying Your Setup",
+            "Starting Your Debugging Journey",
+            "Run and Debug View",
+            "Run Menu",
+            "Launch Configurations",
+            "Starting a Debug Session",
+            "Debug Console",
+            "Essential Debugging Techniques",
+            "Breakpoints",
+            "Data Inspection",
+            "Using the Call Stack",
+            "Summary of Basic Debugging Techniques"
+        ],
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/10%20Modular%20Programming/--%2007%20Debugging%20Techniques%20in%20VSCode.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/10 Modular Programming/01 Limitations of Jupyter Notebooks.ipynb",
+        "name": "01 Limitations of Jupyter Notebooks",
+        "table_of_content": [
+            "The Power and Popularity of Jupyter Notebooks",
+            "Interactive Computing",
+            "Data Visualization",
+            "Ease of Use",
+            "Collaboration and Sharing",
+            "Limitations of Jupyter Notebooks",
+            "Non-linear Execution",
+            "Version Control Challenges",
+            "Limited IDE Features",
+            "Encouragement of Poor Coding Practices",
+            "Scalability Issues",
+            "Limited Support for Software Engineering Best Practices",
+            "The Need for Modular Programming",
+            "Code Organization and Readability",
+            "Reusability",
+            "Collaboration",
+            "Maintainability and Debugging",
+            "Testing",
+            "Preparation for Real-world Development",
+            "Scalability",
+            "Transitioning from Notebooks to Modular Programming",
+            "Identifying When to Make the Switch",
+            "Steps to Modularize Notebook Code",
+            "Example: From Notebook to Module",
+            "Conclusion"
+        ],
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/10%20Modular%20Programming/01%20Limitations%20of%20Jupyter%20Notebooks.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/10 Modular Programming/02 Modular Programming.ipynb",
+        "name": "02 Modular Programming",
+        "table_of_content": [
+            "What is Modular Programming?",
+            "Key Concepts in Modular Programming",
+            "Modules",
+            "Information Hiding",
+            "Loose Coupling",
+            "Maintainability",
+            "Separation of Concerns",
+            "Namespace Management",
+            "Documentation",
+            "Scalability",
+            "Modular Programming in Python",
+            "Python Modules",
+            "Packages in Python",
+            "Namespace Management",
+            "Relative Imports",
+            "Module Search Path",
+            "Conclusion"
+        ],
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/10%20Modular%20Programming/02%20Modular%20Programming.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/10 Modular Programming/03 Creating and Importing Modules.ipynb",
+        "name": "03 Creating and Importing Modules",
+        "table_of_content": [
+            "What is a Module?",
+            "Examples of Modules:",
+            "Creating a Module",
+            "Basic Module Structure",
+            "Module Naming Conventions",
+            "Module Contents",
+            "Documenting Your Module",
+            "Importing Modules",
+            "Basic Import Statement",
+            "From Import Statement",
+            "Import as Statement",
+            "Importing All Names (*)",
+            "Best Practices for Importing",
+            "Modules vs. Scripts: Making Modules Executable",
+            "Modules vs. Scripts",
+            "Making Modules Executable",
+            "Benefits of This Approach",
+            "Example Usage",
+            "Best Practices",
+            "Organizing Module Contents",
+            "Using if __name__ == \"__main__\"",
+            "Documenting Your Module",
+            "Import Best Practices",
+            "Common Built-in Modules",
+            "os - Operating System Interface",
+            "sys - System-specific Parameters and Functions",
+            "datetime - Basic Date and Time Types",
+            "math - Mathematical Functions",
+            "random - Generate Pseudo-random Numbers",
+            "re - Regular Expression Operations",
+            "collections - Container Datatypes",
+            "Conclusion"
+        ],
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/10%20Modular%20Programming/03%20Creating%20and%20Importing%20Modules.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/10 Modular Programming/04 The Python Module Search Path.ipynb",
+        "name": "04 The Python Module Search Path",
+        "table_of_content": [
+            "Understanding Python's Import System",
+            "The Module Search Path",
+            "Default Search Path",
+            "Viewing the Current Search Path",
+            "Modifying the Module Search Path",
+            "Using `PYTHONPATH` Environment Variable",
+            "Modifying `sys.path` at Runtime",
+            "Using `.pth` Files",
+            "Best Practices for Modifying the Search Path",
+            "Working with Virtual Environments",
+            "Impact on Module Search Path",
+            "Creating and Using Virtual Environments",
+            "Viewing the Modified Search Path",
+            "Best Practices for Virtual Environments",
+            "Debugging Import Issues",
+            "Techniques for Troubleshooting",
+            "Advanced Debugging Techniques",
+            "Conclusion"
+        ],
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/10%20Modular%20Programming/04%20The%20Python%20Module%20Search%20Path.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/10 Modular Programming/05 Creating and Using Packages.ipynb",
+        "name": "05 Creating and Using Packages",
+        "table_of_content": [
+            "What is a Package in Python?",
+            "Package Structure",
+            "Benefits of Using Packages",
+            "Creating a Package",
+            "Subpackage",
+            "Creating Package Modules",
+            "Putting It All Together",
+            "Using Packages",
+            "Importing from Packages",
+            "Relative vs Absolute Imports",
+            "Importing Specific Functions or Classes",
+            "Handling Subpackages",
+            "Using `__all__`",
+            "Best Practices for Using Packages",
+            "Example: Using Our Math Package",
+            "Best Practices for Package Design",
+            "Naming Conventions",
+            "Structure and Organization",
+            "Documentation",
+            "Error Handling",
+            "Version Control",
+            "Testing",
+            "Common Python Packages",
+            "Data Science and Machine Learning",
+            "Web Development",
+            "Data Visualization",
+            "Network and Internet",
+            "Utility and Productivity",
+            "How to Find and Choose Packages",
+            "Conclusion"
+        ],
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/10%20Modular%20Programming/05%20Creating%20and%20Using%20Packages.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/10 Modular Programming/06 Common Issues in Python Packages.ipynb",
+        "name": "06 Common Issues in Python Packages",
+        "table_of_content": [
+            "Relative Import Issues",
+            "\"ValueError: attempted relative import beyond top-level package\"",
+            "\"ImportError: attempted relative import with no known parent package\"",
+            "\"SystemError: Parent module '' not loaded, cannot perform relative import\"",
+            "Best Practices for Handling Relative Imports",
+            "Absolute Import Issues",
+            "\"ModuleNotFoundError: No module named 'mymodule'\"",
+            "Circular Import Problems",
+            "Handling Optional Dependencies",
+            "Package Structure and Import Confusion",
+            "Flat vs Nested Package Structures",
+            "Absolute vs Relative Imports Within Packages",
+            "Avoiding Common Pitfalls",
+            "Environment and Path-Related Import Issues",
+            "Virtual Environment Pitfalls",
+            "`PYTHONPATH` and `sys.path` Manipulation",
+            "Import Issues in Notebooks (Jupyter/IPython)",
+            "Conclusion"
+        ],
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/10%20Modular%20Programming/06%20Common%20Issues%20in%20Python%20Packages.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/10 Modular Programming/07 Basics of Debugging in VSCode.ipynb",
+        "name": "07 Basics of Debugging in VSCode",
+        "table_of_content": [
+            "Setting Up VSCode for Python Debugging",
+            "Installing VSCode",
+            "Installing the Python Extension",
+            "Configuring the Python Interpreter",
+            "Setting Up a Python Project",
+            "Configuring Debug Settings",
+            "Verifying the Setup",
+            "Common Pitfalls",
+            "Understanding the Debug View",
+            "Accessing the Debug View",
+            "Debug Toolbar",
+            "Variables Pane",
+            "Watch Pane",
+            "Call Stack",
+            "Breakpoints Pane",
+            "Debug Console",
+            "Customizing the Debug View",
+            "Common Pitfalls",
+            "Setting and Managing Breakpoints",
+            "Setting Line Breakpoints",
+            "Managing Breakpoints",
+            "Best Practices for Using Breakpoints",
+            "Common Pitfalls",
+            "Basic Debugging Operations",
+            "Starting and Stopping Debugging",
+            "Step Over (F10)",
+            "Step Into (F11)",
+            "Step Out (Shift+F11)",
+            "Continue Execution (F5)",
+            "Restart (Ctrl+Shift+F5)",
+            "Run to Cursor",
+            "Using the Debug Console",
+            "Common Pitfalls",
+            "Inspecting Variables and Expressions",
+            "Hover Evaluation",
+            "Using the Variables Pane",
+            "Adding Expressions to the Watch Pane",
+            "Modifying Variables During Debugging",
+            "Using the Debug Console for Evaluation",
+            "Data Visualizers",
+            "Customizing Display Format",
+            "Common Pitfalls",
+            "Simple Debug Console Usage",
+            "Evaluating Expressions",
+            "Executing Statements",
+            "Working with Variables",
+            "Importing and Using Modules",
+            "Multi-line Input",
+            "Debugging Output",
+            "Common Pitfalls and Best Practices",
+            "Summary"
+        ],
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/10%20Modular%20Programming/07%20Basics%20of%20Debugging%20in%20VSCode.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/10 Modular Programming/08 Advanced Debugging Techniques in VSCode.ipynb",
+        "name": "08 Advanced Debugging Techniques in VSCode",
+        "table_of_content": [
+            "Advanced Breakpoint Techniques",
+            "Function Breakpoints",
+            "Data Breakpoints (Watchpoints)",
+            "Hit Count Breakpoints",
+            "Logpoints",
+            "Conditional Breakpoints",
+            "Best Practices and Considerations",
+            "Working with the Call Stack",
+            "Viewing the Call Stack in VSCode",
+            "Navigating the Call Stack",
+            "Using the Call Stack for Debugging",
+            "Debugging External Libraries and Modules",
+            "Stepping into External Code",
+            "Navigating External Library Code",
+            "Using the \"Just My Code\" Feature",
+            "Balancing \"Just My Code\" and External Debugging",
+            "Debugging Specific External Libraries",
+            "Using Launch Configurations",
+            "Creating a Basic Launch Configuration",
+            "Customizing Launch Configurations",
+            "Advanced Launch Configuration Features",
+            "Best Practices for Launch Configurations",
+            "Summary"
+        ],
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/10%20Modular%20Programming/08%20Advanced%20Debugging%20Techniques%20in%20VSCode.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/11 Advanced Topics/02 Grouping Statements.ipynb",
+        "name": "02 Grouping Statements",
+        "table_of_content": [
+            "The Importance of Indentation",
+            "No Explicit Block Delimiters",
+            "Nested Blocks",
+            "The Debate Over Indentation",
+            "Summary"
+        ],
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/11%20Advanced%20Topics/02%20Grouping%20Statements.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/11 Advanced Topics/03 Function Arguments.ipynb",
+        "name": "03 Function Arguments",
+        "table_of_content": [
+            "Positional Arguments",
+            "Keyword Arguments",
+            "Unpacking Arguments",
+            "Unpacking Iterables with `*`",
+            "Unpacking Dictionaries with `**`",
+            "Best Practices for Using Function Arguments",
+            "Descriptive Argument Names",
+            "Use Keyword Arguments to Enhance Readability",
+            "Consistent Ordering of Arguments",
+            "Practice Exercise",
+            "Solution"
+        ],
+        "practice_exercises": [
+            "## <a id='toc5_'></a>",
+            "## <a id='toc5_'></a>",
+            "You are tasked with creating a command-line tool that processes user data for a small software application. The tool will need to take user information, validate it, and then output a formatted summary. This exercise will test your understanding of function arguments, including how to use positional, keyword, and unpacking arguments effectively.",
+            "*Tasks:** 1. Define a function named `validate_user` that takes three positional arguments: `username`, `email`, and `age`. The function should check if the `username` is a non-empty string, the `email` contains an \"@\" symbol, and the `age` is a positive integer. The function should return `True` if all checks pass, or `False` otherwise. 2. Define a function named `format_user_data` that takes three keyword arguments: `username`, `email`, and `age`. The function should return a string formatted as \"Username: {username}, Email: {email}, Age: {age}\". 3. Write a main function named `process_user_data` that takes an unpacked list of user data. Within this function, call `validate_user` to ensure that the data is correct. If the data is valid, call `format_user_data` and print the output. If the data is invalid, print \"Invalid user data provided.\" 4. Call the `process_user_data` function twice: first with a valid list of user data and then with an invalid list. Use the unpacking operator to pass the list of data to the function. 5. Modify the `process_user_data` function to also accept and correctly handle keyword arguments for user data. 6. Call the `process_user_data` function with keyword arguments to demonstrate that it works with both positional and keyword arguments.",
+            "*Expected Output:**",
+            "For the three calls to `process_user_data`, you should see the following outputs (assuming the first call is valid, the second is invalid, and the third is valid with keyword arguments): ```sh Username: johndoe, Email: johndoe@example.com, Age: 28 Invalid user data provided. Username: janedoe, Email: janedoe@example.com, Age: 32 ```",
+            "*Hints:** Remember to use type hints to clarify what types of arguments your functions should accept. Think about how you can use if statements to perform the validation checks in the `validate_user` function. Consider using f-strings to create the formatted string in the `format_user_data` function. Use conditional logic in the `process_user_data` function to determine whether to unpack the arguments as positional or keyword arguments.",
+            "This exercise should help reinforce your understanding of how to handle various types of function arguments and how to use them to create clear, maintainable code. Good luck!"
+        ],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/11%20Advanced%20Topics/03%20Function%20Arguments.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/11 Advanced Topics/04 Function Parameters.ipynb",
+        "name": "04 Function Parameters",
+        "table_of_content": [
+            "Types of Parameters",
+            "Positional Parameters",
+            "Keyword Parameters",
+            "Default Parameters",
+            "Variable-Length Parameters",
+            "Best Practices for Using `*args` and `**kwargs`",
+            "Mixing Different Types of Parameters",
+            "Rules and Syntax for Mixing Parameter Types",
+            "Practical Examples Demonstrating Mixed Parameter Types",
+            "Best Practices for Defining Parameters",
+            "Tips for Naming and Ordering Parameters",
+            "Guidelines for Using Different Types of Parameters",
+            "Examples",
+            "Practice Exercise",
+            "Tasks:",
+            "Sample Calls and Expected Outputs:",
+            "Solution"
+        ],
+        "practice_exercises": [
+            "## <a id='toc4_'></a>",
+            "## <a id='toc4_'></a>",
+            "In the previous lecture, we covered the different types of function parameters in Python and their importance in writing flexible and modular code. Now, it is time to apply your knowledge through a set of practical exercises that involve writing functions with a variety of parameter types."
+        ],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/11%20Advanced%20Topics/04%20Function%20Parameters.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/11 Advanced Topics/05 Function Return Values.ipynb",
+        "name": "05 Function Return Values",
+        "table_of_content": [
+            "Understanding the `return` Statement",
+            "How the `return` Statement Affects the Function Execution and Program Flow",
+            "Returning a Value",
+            "Exiting a Function Early",
+            "No `return` Statement",
+            "Returning Values from a Function",
+            "The Difference Between Printing a Value and Returning It",
+            "Examples of Functions That Return Values",
+            "Functions with Multiple `return` Statements",
+            "Examples of Functions with Multiple Return Paths",
+            "The Default `return` Value",
+            "The Implicit `return None` Behavior of Functions",
+            "Returning Multiple Values",
+            "Using Tuples to Return Multiple Values",
+            "Using Lists to Return Multiple Values",
+            "Using Dictionaries to Return Multiple Values",
+            "Best Practices for Using `return`",
+            "Conclusion",
+            "Practice Exercise",
+            "Solution"
+        ],
+        "practice_exercises": [
+            "## <a id='toc8_'></a>",
+            "## <a id='toc8_'></a>",
+            "In this exercise, you will put into practice your understanding of the `return` statement in Python functions. You will write functions to perform various tasks, demonstrating how to return values, exit functions early, and utilize multiple return paths.",
+            "*Tasks:** 1. **Simple Return Value**: Write a function named `square` that takes a single argument `x` and returns the square of that number. Call the function and print the result. 2. **Exiting a Function Early**: Write a function named `greet` that takes a string `name`. If the name is an empty string, return the string \"No name provided\" immediately. Otherwise, return a greeting in the form \"Hello, [name]!\". 3. **Function Without `return`**: Write a function named `print_even` that takes a list of numbers and prints each even number in the list. Since this function is only meant to print values, it does not need a `return` statement. 4. **Multiple Return Paths**: Write a function named `is_adult` that takes an age and returns `True` if the age is 18 or higher, and `False` otherwise. This function should have two return statements. 5. **Conditional Return with Default Value**: Write a function named `classify_grade` that takes a grade number and returns \"Fail\" if the grade is less than 60, \"Pass\" if it's 60 or higher, and \"Excellent\" if it's 90 or higher. If no grade is provided, it should return \"No grade\". 6. **Returning Multiple Values**: Write a function named `min_max` that takes a list of numbers and returns both the minimum and maximum numbers in the list as a tuple. 7. **Bonus: Returning Complex Data**: Write a function named `analyze_scores` that takes a list of scores and returns a dictionary with the keys \"max\", \"min\", and \"average\", corresponding to the maximum score, minimum score, and average score from the list, respectively.",
+            "*Expected Output:** ```bash The square of 4 is 16. Hello, Alice! Even numbers: 2, 4 Is 20 an adult? True The grade 85 is classified as Pass. The min and max of [1, 2, 3, 4, 5] are (1, 5). Score analysis: {'max': 92, 'min': 61, 'average': 76.5} ```",
+            "These tasks will help you understand the nuances of the `return` statement and how to use it effectively in your functions. Remember to test each function by calling it with appropriate arguments and printing the results to verify that your implementation is correct. Happy coding!"
+        ],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/11%20Advanced%20Topics/05%20Function%20Return%20Values.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/11 Advanced Topics/07 Error and Exception Handling.ipynb",
+        "name": "07 Error and Exception Handling",
+        "table_of_content": "",
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/11%20Advanced%20Topics/07%20Error%20and%20Exception%20Handling.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/11 Advanced Topics/13 Error Handling with try and Except.ipynb",
+        "name": "13 Error Handling with try and Except",
+        "table_of_content": "",
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/11%20Advanced%20Topics/13%20Error%20Handling%20with%20try%20and%20Except.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/11 Advanced Topics/23 Converting Between Composite Data Types.ipynb",
+        "name": "23 Converting Between Composite Data Types",
+        "table_of_content": "",
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/11%20Advanced%20Topics/23%20Converting%20Between%20Composite%20Data%20Types.ipynb"
+    },
+    {
+        "local_path": "downloaded_files/Lectures/11 Advanced Topics/24 Copying Composite Data Types.ipynb",
+        "name": "24 Copying Composite Data Types",
+        "table_of_content": [
+            "Assigning a List to Another Variable (Creating a Reference)",
+            "Shallow Copy",
+            "Using the `copy()` method",
+            "Using the list constructor",
+            "Using slicing",
+            "Deep Copy",
+            "Final Examples",
+            "Example: Creating a reference",
+            "Example: Shallow copy",
+            "Example: Deep copy",
+            "Conclusion"
+        ],
+        "practice_exercises": [],
+        "github_link": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/11%20Advanced%20Topics/24%20Copying%20Composite%20Data%20Types.ipynb"
+    }
+]

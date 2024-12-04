@@ -1,0 +1,478 @@
+{
+    "downloaded_files/Lectures/12 Capstone Project/01 Project Proposal.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/12%20Capstone%20Project/01%20Project%20Proposal.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/12%20Capstone%20Project/01%20Project%20Proposal.ipynb"
+    },
+    "downloaded_files/Lectures/12 Capstone Project/02 Requirements Gathering.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/12%20Capstone%20Project/02%20Requirements%20Gathering.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/12%20Capstone%20Project/02%20Requirements%20Gathering.ipynb"
+    },
+    "downloaded_files/Lectures/12 Capstone Project/03 Design and Planning.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/12%20Capstone%20Project/03%20Design%20and%20Planning.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/12%20Capstone%20Project/03%20Design%20and%20Planning.ipynb"
+    },
+    "downloaded_files/Lectures/12 Capstone Project/04 Setting Up the Development Environment.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/12%20Capstone%20Project/04%20Setting%20Up%20the%20Development%20Environment.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/12%20Capstone%20Project/04%20Setting%20Up%20the%20Development%20Environment.ipynb"
+    },
+    "downloaded_files/Lectures/12 Capstone Project/05 Modular Design and Code Organization.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/12%20Capstone%20Project/05%20Modular%20Design%20and%20Code%20Organization.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/12%20Capstone%20Project/05%20Modular%20Design%20and%20Code%20Organization.ipynb"
+    },
+    "downloaded_files/Lectures/12 Capstone Project/06 Coding and Implementation.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/12%20Capstone%20Project/06%20Coding%20and%20Implementation.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/12%20Capstone%20Project/06%20Coding%20and%20Implementation.ipynb"
+    },
+    "downloaded_files/Lectures/12 Capstone Project/07 Testing and Debugging.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/12%20Capstone%20Project/07%20Testing%20and%20Debugging.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/12%20Capstone%20Project/07%20Testing%20and%20Debugging.ipynb"
+    },
+    "downloaded_files/Lectures/12 Capstone Project/08 Dcoumentation and User Guide.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/12%20Capstone%20Project/08%20Dcoumentation%20and%20User%20Guide.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/12%20Capstone%20Project/08%20Dcoumentation%20and%20User%20Guide.ipynb"
+    },
+    "downloaded_files/Lectures/12 Capstone Project/09 Conclusion.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/12%20Capstone%20Project/09%20Conclusion.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/12%20Capstone%20Project/09%20Conclusion.ipynb"
+    },
+    "downloaded_files/Lectures/12 Capstone Project/10 Course Wrap-up.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/12%20Capstone%20Project/10%20Course%20Wrap-up.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/12%20Capstone%20Project/10%20Course%20Wrap-up.ipynb"
+    },
+    "downloaded_files/Lectures/11 Advanced Topics/-- Advanced Composite Data Types.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/11%20Advanced%20Topics/--%20Advanced%20Composite%20Data%20Types.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/11%20Advanced%20Topics/--%20Advanced%20Composite%20Data%20Types.ipynb"
+    },
+    "downloaded_files/Lectures/11 Advanced Topics/-- Bitwise Operators.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/11%20Advanced%20Topics/--%20Bitwise%20Operators.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/11%20Advanced%20Topics/--%20Bitwise%20Operators.ipynb"
+    },
+    "downloaded_files/Lectures/11 Advanced Topics/01 List Memory Management.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/11%20Advanced%20Topics/01%20List%20Memory%20Management.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/11%20Advanced%20Topics/01%20List%20Memory%20Management.ipynb"
+    },
+    "downloaded_files/Lectures/11 Advanced Topics/02 Dictionary and Set Hash Table.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/11%20Advanced%20Topics/02%20Dictionary%20and%20Set%20Hash%20Table.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/11%20Advanced%20Topics/02%20Dictionary%20and%20Set%20Hash%20Table.ipynb"
+    },
+    "downloaded_files/Lectures/11 Advanced Topics/02 Grouping Statements.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/11%20Advanced%20Topics/02%20Grouping%20Statements.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/11%20Advanced%20Topics/02%20Grouping%20Statements.ipynb"
+    },
+    "downloaded_files/Lectures/11 Advanced Topics/03 Function Arguments.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/11%20Advanced%20Topics/03%20Function%20Arguments.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/11%20Advanced%20Topics/03%20Function%20Arguments.ipynb"
+    },
+    "downloaded_files/Lectures/11 Advanced Topics/03 Variable-length Arguments (*args and **kwargs).ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/11%20Advanced%20Topics/03%20Variable-length%20Arguments%20(*args%20and%20**kwargs).ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/11%20Advanced%20Topics/03%20Variable-length%20Arguments%20(*args%20and%20**kwargs).ipynb"
+    },
+    "downloaded_files/Lectures/11 Advanced Topics/04 Function Parameters.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/11%20Advanced%20Topics/04%20Function%20Parameters.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/11%20Advanced%20Topics/04%20Function%20Parameters.ipynb"
+    },
+    "downloaded_files/Lectures/11 Advanced Topics/04 Namespaces in Python.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/11%20Advanced%20Topics/04%20Namespaces%20in%20Python.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/11%20Advanced%20Topics/04%20Namespaces%20in%20Python.ipynb"
+    },
+    "downloaded_files/Lectures/11 Advanced Topics/05 Function Return Values.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/11%20Advanced%20Topics/05%20Function%20Return%20Values.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/11%20Advanced%20Topics/05%20Function%20Return%20Values.ipynb"
+    },
+    "downloaded_files/Lectures/11 Advanced Topics/05 Variable Scope.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/11%20Advanced%20Topics/05%20Variable%20Scope.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/11%20Advanced%20Topics/05%20Variable%20Scope.ipynb"
+    },
+    "downloaded_files/Lectures/11 Advanced Topics/06 Namespace Dictionaries.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/11%20Advanced%20Topics/06%20Namespace%20Dictionaries.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/11%20Advanced%20Topics/06%20Namespace%20Dictionaries.ipynb"
+    },
+    "downloaded_files/Lectures/11 Advanced Topics/07 Error and Exception Handling.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/11%20Advanced%20Topics/07%20Error%20and%20Exception%20Handling.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/11%20Advanced%20Topics/07%20Error%20and%20Exception%20Handling.ipynb"
+    },
+    "downloaded_files/Lectures/11 Advanced Topics/07 Modify Variables Out of Scope.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/11%20Advanced%20Topics/07%20Modify%20Variables%20Out%20of%20Scope.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/11%20Advanced%20Topics/07%20Modify%20Variables%20Out%20of%20Scope.ipynb"
+    },
+    "downloaded_files/Lectures/11 Advanced Topics/08 Recursion.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/11%20Advanced%20Topics/08%20Recursion.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/11%20Advanced%20Topics/08%20Recursion.ipynb"
+    },
+    "downloaded_files/Lectures/11 Advanced Topics/09 The with Statement and Context Managers.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/11%20Advanced%20Topics/09%20The%20with%20Statement%20and%20Context%20Managers.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/11%20Advanced%20Topics/09%20The%20with%20Statement%20and%20Context%20Managers.ipynb"
+    },
+    "downloaded_files/Lectures/11 Advanced Topics/10 Dependency Management.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/11%20Advanced%20Topics/10%20Dependency%20Management.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/11%20Advanced%20Topics/10%20Dependency%20Management.ipynb"
+    },
+    "downloaded_files/Lectures/11 Advanced Topics/13 Error Handling with try and Except.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/11%20Advanced%20Topics/13%20Error%20Handling%20with%20try%20and%20Except.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/11%20Advanced%20Topics/13%20Error%20Handling%20with%20try%20and%20Except.ipynb"
+    },
+    "downloaded_files/Lectures/11 Advanced Topics/23 Converting Between Composite Data Types.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/11%20Advanced%20Topics/23%20Converting%20Between%20Composite%20Data%20Types.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/11%20Advanced%20Topics/23%20Converting%20Between%20Composite%20Data%20Types.ipynb"
+    },
+    "downloaded_files/Lectures/11 Advanced Topics/24 Copying Composite Data Types.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/11%20Advanced%20Topics/24%20Copying%20Composite%20Data%20Types.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/11%20Advanced%20Topics/24%20Copying%20Composite%20Data%20Types.ipynb"
+    },
+    "downloaded_files/Lectures/11 Advanced Topics/25 Basic OOP Concepts.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/11%20Advanced%20Topics/25%20Basic%20OOP%20Concepts.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/11%20Advanced%20Topics/25%20Basic%20OOP%20Concepts.ipynb"
+    },
+    "downloaded_files/Lectures/11 Advanced Topics/26 Custom Data Types using Classes.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/11%20Advanced%20Topics/26%20Custom%20Data%20Types%20using%20Classes.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/11%20Advanced%20Topics/26%20Custom%20Data%20Types%20using%20Classes.ipynb"
+    },
+    "downloaded_files/Lectures/10 Modular Programming/-- 07 Debugging Techniques in VSCode.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/10%20Modular%20Programming/--%2007%20Debugging%20Techniques%20in%20VSCode.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/10%20Modular%20Programming/--%2007%20Debugging%20Techniques%20in%20VSCode.ipynb"
+    },
+    "downloaded_files/Lectures/10 Modular Programming/01 Limitations of Jupyter Notebooks.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/10%20Modular%20Programming/01%20Limitations%20of%20Jupyter%20Notebooks.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/10%20Modular%20Programming/01%20Limitations%20of%20Jupyter%20Notebooks.ipynb"
+    },
+    "downloaded_files/Lectures/10 Modular Programming/02 Modular Programming.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/10%20Modular%20Programming/02%20Modular%20Programming.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/10%20Modular%20Programming/02%20Modular%20Programming.ipynb"
+    },
+    "downloaded_files/Lectures/10 Modular Programming/03 Creating and Importing Modules.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/10%20Modular%20Programming/03%20Creating%20and%20Importing%20Modules.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/10%20Modular%20Programming/03%20Creating%20and%20Importing%20Modules.ipynb"
+    },
+    "downloaded_files/Lectures/10 Modular Programming/04 The Python Module Search Path.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/10%20Modular%20Programming/04%20The%20Python%20Module%20Search%20Path.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/10%20Modular%20Programming/04%20The%20Python%20Module%20Search%20Path.ipynb"
+    },
+    "downloaded_files/Lectures/10 Modular Programming/05 Creating and Using Packages.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/10%20Modular%20Programming/05%20Creating%20and%20Using%20Packages.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/10%20Modular%20Programming/05%20Creating%20and%20Using%20Packages.ipynb"
+    },
+    "downloaded_files/Lectures/10 Modular Programming/06 Common Issues in Python Packages.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/10%20Modular%20Programming/06%20Common%20Issues%20in%20Python%20Packages.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/10%20Modular%20Programming/06%20Common%20Issues%20in%20Python%20Packages.ipynb"
+    },
+    "downloaded_files/Lectures/10 Modular Programming/07 Basics of Debugging in VSCode.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/10%20Modular%20Programming/07%20Basics%20of%20Debugging%20in%20VSCode.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/10%20Modular%20Programming/07%20Basics%20of%20Debugging%20in%20VSCode.ipynb"
+    },
+    "downloaded_files/Lectures/10 Modular Programming/08 Advanced Debugging Techniques in VSCode.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/10%20Modular%20Programming/08%20Advanced%20Debugging%20Techniques%20in%20VSCode.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/10%20Modular%20Programming/08%20Advanced%20Debugging%20Techniques%20in%20VSCode.ipynb"
+    },
+    "downloaded_files/Lectures/09 Object Oriented Programming/01 Programming Paradigms.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/09%20Object%20Oriented%20Programming/01%20Programming%20Paradigms.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/09%20Object%20Oriented%20Programming/01%20Programming%20Paradigms.ipynb"
+    },
+    "downloaded_files/Lectures/09 Object Oriented Programming/02 Introduction to Object Oriented Programming.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/09%20Object%20Oriented%20Programming/02%20Introduction%20to%20Object%20Oriented%20Programming.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/09%20Object%20Oriented%20Programming/02%20Introduction%20to%20Object%20Oriented%20Programming.ipynb"
+    },
+    "downloaded_files/Lectures/09 Object Oriented Programming/03 OOP in Python.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/09%20Object%20Oriented%20Programming/03%20OOP%20in%20Python.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/09%20Object%20Oriented%20Programming/03%20OOP%20in%20Python.ipynb"
+    },
+    "downloaded_files/Lectures/09 Object Oriented Programming/04 Classes and Objects.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/09%20Object%20Oriented%20Programming/04%20Classes%20and%20Objects.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/09%20Object%20Oriented%20Programming/04%20Classes%20and%20Objects.ipynb"
+    },
+    "downloaded_files/Lectures/09 Object Oriented Programming/05 the __init__ Method.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/09%20Object%20Oriented%20Programming/05%20the%20__init__%20Method.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/09%20Object%20Oriented%20Programming/05%20the%20__init__%20Method.ipynb"
+    },
+    "downloaded_files/Lectures/09 Object Oriented Programming/06 OOP Feature: Inheritance.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/09%20Object%20Oriented%20Programming/06%20OOP%20Feature:%20Inheritance.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/09%20Object%20Oriented%20Programming/06%20OOP%20Feature:%20Inheritance.ipynb"
+    },
+    "downloaded_files/Lectures/09 Object Oriented Programming/07 Types of Inheritance.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/09%20Object%20Oriented%20Programming/07%20Types%20of%20Inheritance.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/09%20Object%20Oriented%20Programming/07%20Types%20of%20Inheritance.ipynb"
+    },
+    "downloaded_files/Lectures/09 Object Oriented Programming/08 Object Relationships.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/09%20Object%20Oriented%20Programming/08%20Object%20Relationships.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/09%20Object%20Oriented%20Programming/08%20Object%20Relationships.ipynb"
+    },
+    "downloaded_files/Lectures/09 Object Oriented Programming/09 OOP Feature: Polymorphism.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/09%20Object%20Oriented%20Programming/09%20OOP%20Feature:%20Polymorphism.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/09%20Object%20Oriented%20Programming/09%20OOP%20Feature:%20Polymorphism.ipynb"
+    },
+    "downloaded_files/Lectures/09 Object Oriented Programming/10 OOP Feature: Encapsulation.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/09%20Object%20Oriented%20Programming/10%20OOP%20Feature:%20Encapsulation.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/09%20Object%20Oriented%20Programming/10%20OOP%20Feature:%20Encapsulation.ipynb"
+    },
+    "downloaded_files/Lectures/09 Object Oriented Programming/11 OOP Feature: Abstract Base Classes.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/09%20Object%20Oriented%20Programming/11%20OOP%20Feature:%20Abstract%20Base%20Classes.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/09%20Object%20Oriented%20Programming/11%20OOP%20Feature:%20Abstract%20Base%20Classes.ipynb"
+    },
+    "downloaded_files/Lectures/09 Object Oriented Programming/12 Overriding.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/09%20Object%20Oriented%20Programming/12%20Overriding.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/09%20Object%20Oriented%20Programming/12%20Overriding.ipynb"
+    },
+    "downloaded_files/Lectures/09 Object Oriented Programming/13 The Magic Methods.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/09%20Object%20Oriented%20Programming/13%20The%20Magic%20Methods.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/09%20Object%20Oriented%20Programming/13%20The%20Magic%20Methods.ipynb"
+    },
+    "downloaded_files/Lectures/09 Object Oriented Programming/14 Static and Class Methods.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/09%20Object%20Oriented%20Programming/14%20Static%20and%20Class%20Methods.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/09%20Object%20Oriented%20Programming/14%20Static%20and%20Class%20Methods.ipynb"
+    },
+    "downloaded_files/Lectures/08 File Handling/01 Introduction to File Handling.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/08%20File%20Handling/01%20Introduction%20to%20File%20Handling.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/08%20File%20Handling/01%20Introduction%20to%20File%20Handling.ipynb"
+    },
+    "downloaded_files/Lectures/08 File Handling/02 Reading from Files.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/08%20File%20Handling/02%20Reading%20from%20Files.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/08%20File%20Handling/02%20Reading%20from%20Files.ipynb"
+    },
+    "downloaded_files/Lectures/08 File Handling/03 Writing to Files.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/08%20File%20Handling/03%20Writing%20to%20Files.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/08%20File%20Handling/03%20Writing%20to%20Files.ipynb"
+    },
+    "downloaded_files/Lectures/07 Functions/01 Introduction to Functions.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/07%20Functions/01%20Introduction%20to%20Functions.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/07%20Functions/01%20Introduction%20to%20Functions.ipynb"
+    },
+    "downloaded_files/Lectures/07 Functions/02 Defining and Calling Functions.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/07%20Functions/02%20Defining%20and%20Calling%20Functions.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/07%20Functions/02%20Defining%20and%20Calling%20Functions.ipynb"
+    },
+    "downloaded_files/Lectures/07 Functions/03 Argument Passing.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/07%20Functions/03%20Argument%20Passing.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/07%20Functions/03%20Argument%20Passing.ipynb"
+    },
+    "downloaded_files/Lectures/07 Functions/04 Function Return Values.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/07%20Functions/04%20Function%20Return%20Values.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/07%20Functions/04%20Function%20Return%20Values.ipynb"
+    },
+    "downloaded_files/Lectures/07 Functions/05 Variable-Length Argument.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/07%20Functions/05%20Variable-Length%20Argument.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/07%20Functions/05%20Variable-Length%20Argument.ipynb"
+    },
+    "downloaded_files/Lectures/07 Functions/06 Function Documentation.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/07%20Functions/06%20Function%20Documentation.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/07%20Functions/06%20Function%20Documentation.ipynb"
+    },
+    "downloaded_files/Lectures/07 Functions/07 Lambda Functions.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/07%20Functions/07%20Lambda%20Functions.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/07%20Functions/07%20Lambda%20Functions.ipynb"
+    },
+    "downloaded_files/Lectures/07 Functions/08 Built-in Functions.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/07%20Functions/08%20Built-in%20Functions.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/07%20Functions/08%20Built-in%20Functions.ipynb"
+    },
+    "downloaded_files/Lectures/06 Control Structures/01 Introduction to Control Structures.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/06%20Control%20Structures/01%20Introduction%20to%20Control%20Structures.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/06%20Control%20Structures/01%20Introduction%20to%20Control%20Structures.ipynb"
+    },
+    "downloaded_files/Lectures/06 Control Structures/02 Conditional Statements.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/06%20Control%20Structures/02%20Conditional%20Statements.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/06%20Control%20Structures/02%20Conditional%20Statements.ipynb"
+    },
+    "downloaded_files/Lectures/06 Control Structures/03 for Loops.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/06%20Control%20Structures/03%20for%20Loops.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/06%20Control%20Structures/03%20for%20Loops.ipynb"
+    },
+    "downloaded_files/Lectures/06 Control Structures/04 while Loops.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/06%20Control%20Structures/04%20while%20Loops.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/06%20Control%20Structures/04%20while%20Loops.ipynb"
+    },
+    "downloaded_files/Lectures/06 Control Structures/05 Loop Control Statements.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/06%20Control%20Structures/05%20Loop%20Control%20Statements.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/06%20Control%20Structures/05%20Loop%20Control%20Statements.ipynb"
+    },
+    "downloaded_files/Lectures/06 Control Structures/06 Comprehensions.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/06%20Control%20Structures/06%20Comprehensions.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/06%20Control%20Structures/06%20Comprehensions.ipynb"
+    },
+    "downloaded_files/Lectures/05 Code Structure and Syntax/01 Introduction.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/05%20Code%20Structure%20and%20Syntax/01%20Introduction.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/05%20Code%20Structure%20and%20Syntax/01%20Introduction.ipynb"
+    },
+    "downloaded_files/Lectures/05 Code Structure and Syntax/02 Line Continuation.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/05%20Code%20Structure%20and%20Syntax/02%20Line%20Continuation.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/05%20Code%20Structure%20and%20Syntax/02%20Line%20Continuation.ipynb"
+    },
+    "downloaded_files/Lectures/05 Code Structure and Syntax/03 Comments.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/05%20Code%20Structure%20and%20Syntax/03%20Comments.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/05%20Code%20Structure%20and%20Syntax/03%20Comments.ipynb"
+    },
+    "downloaded_files/Lectures/05 Code Structure and Syntax/04 Whitespace and Indentation.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/05%20Code%20Structure%20and%20Syntax/04%20Whitespace%20and%20Indentation.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/05%20Code%20Structure%20and%20Syntax/04%20Whitespace%20and%20Indentation.ipynb"
+    },
+    "downloaded_files/Lectures/04 Data Types/01 Basic Data Types.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/04%20Data%20Types/01%20Basic%20Data%20Types.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/04%20Data%20Types/01%20Basic%20Data%20Types.ipynb"
+    },
+    "downloaded_files/Lectures/04 Data Types/02 Variables.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/04%20Data%20Types/02%20Variables.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/04%20Data%20Types/02%20Variables.ipynb"
+    },
+    "downloaded_files/Lectures/04 Data Types/03 Conversion Between Data Types.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/04%20Data%20Types/03%20Conversion%20Between%20Data%20Types.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/04%20Data%20Types/03%20Conversion%20Between%20Data%20Types.ipynb"
+    },
+    "downloaded_files/Lectures/04 Data Types/04 Operators and Expresssions.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/04%20Data%20Types/04%20Operators%20and%20Expresssions.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/04%20Data%20Types/04%20Operators%20and%20Expresssions.ipynb"
+    },
+    "downloaded_files/Lectures/04 Data Types/05 Objects in Python.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/04%20Data%20Types/05%20Objects%20in%20Python.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/04%20Data%20Types/05%20Objects%20in%20Python.ipynb"
+    },
+    "downloaded_files/Lectures/04 Data Types/06 Strings.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/04%20Data%20Types/06%20Strings.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/04%20Data%20Types/06%20Strings.ipynb"
+    },
+    "downloaded_files/Lectures/04 Data Types/07 Basic String Operations.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/04%20Data%20Types/07%20Basic%20String%20Operations.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/04%20Data%20Types/07%20Basic%20String%20Operations.ipynb"
+    },
+    "downloaded_files/Lectures/04 Data Types/08 String Methods.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/04%20Data%20Types/08%20String%20Methods.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/04%20Data%20Types/08%20String%20Methods.ipynb"
+    },
+    "downloaded_files/Lectures/04 Data Types/09 Basics of Input and Output.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/04%20Data%20Types/09%20Basics%20of%20Input%20and%20Output.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/04%20Data%20Types/09%20Basics%20of%20Input%20and%20Output.ipynb"
+    },
+    "downloaded_files/Lectures/04 Data Types/10 String Formatting.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/04%20Data%20Types/10%20String%20Formatting.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/04%20Data%20Types/10%20String%20Formatting.ipynb"
+    },
+    "downloaded_files/Lectures/04 Data Types/11 Escape Sequences and Raw Strings.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/04%20Data%20Types/11%20Escape%20Sequences%20and%20Raw%20Strings.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/04%20Data%20Types/11%20Escape%20Sequences%20and%20Raw%20Strings.ipynb"
+    },
+    "downloaded_files/Lectures/04 Data Types/12 Composite Data Types.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/04%20Data%20Types/12%20Composite%20Data%20Types.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/04%20Data%20Types/12%20Composite%20Data%20Types.ipynb"
+    },
+    "downloaded_files/Lectures/04 Data Types/13 Lists.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/04%20Data%20Types/13%20Lists.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/04%20Data%20Types/13%20Lists.ipynb"
+    },
+    "downloaded_files/Lectures/04 Data Types/14 Accessing and Modifying List Elements.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/04%20Data%20Types/14%20Accessing%20and%20Modifying%20List%20Elements.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/04%20Data%20Types/14%20Accessing%20and%20Modifying%20List%20Elements.ipynb"
+    },
+    "downloaded_files/Lectures/04 Data Types/15 Common List Operations.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/04%20Data%20Types/15%20Common%20List%20Operations.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/04%20Data%20Types/15%20Common%20List%20Operations.ipynb"
+    },
+    "downloaded_files/Lectures/04 Data Types/16 Tuples.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/04%20Data%20Types/16%20Tuples.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/04%20Data%20Types/16%20Tuples.ipynb"
+    },
+    "downloaded_files/Lectures/04 Data Types/17 Dictionary.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/04%20Data%20Types/17%20Dictionary.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/04%20Data%20Types/17%20Dictionary.ipynb"
+    },
+    "downloaded_files/Lectures/04 Data Types/18 Accessing and Modifying Dictionary.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/04%20Data%20Types/18%20Accessing%20and%20Modifying%20Dictionary.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/04%20Data%20Types/18%20Accessing%20and%20Modifying%20Dictionary.ipynb"
+    },
+    "downloaded_files/Lectures/04 Data Types/19 Dictionary Manipulation and Practical Uses.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/04%20Data%20Types/19%20Dictionary%20Manipulation%20and%20Practical%20Uses.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/04%20Data%20Types/19%20Dictionary%20Manipulation%20and%20Practical%20Uses.ipynb"
+    },
+    "downloaded_files/Lectures/04 Data Types/20 Sets.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/04%20Data%20Types/20%20Sets.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/04%20Data%20Types/20%20Sets.ipynb"
+    },
+    "downloaded_files/Lectures/04 Data Types/21 Set Operations.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/04%20Data%20Types/21%20Set%20Operations.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/04%20Data%20Types/21%20Set%20Operations.ipynb"
+    },
+    "downloaded_files/Lectures/04 Data Types/22 Frozensets.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/04%20Data%20Types/22%20Frozensets.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/04%20Data%20Types/22%20Frozensets.ipynb"
+    },
+    "downloaded_files/Lectures/04 Data Types/23 Packing and Unpacking.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/04%20Data%20Types/23%20Packing%20and%20Unpacking.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/04%20Data%20Types/23%20Packing%20and%20Unpacking.ipynb"
+    },
+    "downloaded_files/Lectures/03 Getting Started/01 How to Download Source Code.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/03%20Getting%20Started/01%20How%20to%20Download%20Source%20Code.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/03%20Getting%20Started/01%20How%20to%20Download%20Source%20Code.ipynb"
+    },
+    "downloaded_files/Lectures/02 Python Setup/01 Introduction to Python Development Environment.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/02%20Python%20Setup/01%20Introduction%20to%20Python%20Development%20Environment.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/02%20Python%20Setup/01%20Introduction%20to%20Python%20Development%20Environment.ipynb"
+    },
+    "downloaded_files/Lectures/02 Python Setup/02 Operating Systems and Terminal Setup.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/02%20Python%20Setup/02%20Operating%20Systems%20and%20Terminal%20Setup.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/02%20Python%20Setup/02%20Operating%20Systems%20and%20Terminal%20Setup.ipynb"
+    },
+    "downloaded_files/Lectures/02 Python Setup/03 How the File System Works in Unix-Based Systems.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/02%20Python%20Setup/03%20How%20the%20File%20System%20Works%20in%20Unix-Based%20Systems.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/02%20Python%20Setup/03%20How%20the%20File%20System%20Works%20in%20Unix-Based%20Systems.ipynb"
+    },
+    "downloaded_files/Lectures/02 Python Setup/04 Command-Line Crash Course.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/02%20Python%20Setup/04%20Command-Line%20Crash%20Course.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/02%20Python%20Setup/04%20Command-Line%20Crash%20Course.ipynb"
+    },
+    "downloaded_files/Lectures/02 Python Setup/05 Installing VS Code.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/02%20Python%20Setup/05%20Installing%20VS%20Code.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/02%20Python%20Setup/05%20Installing%20VS%20Code.ipynb"
+    },
+    "downloaded_files/Lectures/02 Python Setup/06 Getting Started with Visual Studio Code.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/02%20Python%20Setup/06%20Getting%20Started%20with%20Visual%20Studio%20Code.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/02%20Python%20Setup/06%20Getting%20Started%20with%20Visual%20Studio%20Code.ipynb"
+    },
+    "downloaded_files/Lectures/02 Python Setup/07 What is a Package Manager.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/02%20Python%20Setup/07%20What%20is%20a%20Package%20Manager.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/02%20Python%20Setup/07%20What%20is%20a%20Package%20Manager.ipynb"
+    },
+    "downloaded_files/Lectures/02 Python Setup/08 Installing Conda.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/02%20Python%20Setup/08%20Installing%20Conda.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/02%20Python%20Setup/08%20Installing%20Conda.ipynb"
+    },
+    "downloaded_files/Lectures/02 Python Setup/09 Python Package Management System.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/02%20Python%20Setup/09%20Python%20Package%20Management%20System.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/02%20Python%20Setup/09%20Python%20Package%20Management%20System.ipynb"
+    },
+    "downloaded_files/Lectures/02 Python Setup/10 Managing Python Packages with Conda.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/02%20Python%20Setup/10%20Managing%20Python%20Packages%20with%20Conda.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/02%20Python%20Setup/10%20Managing%20Python%20Packages%20with%20Conda.ipynb"
+    },
+    "downloaded_files/Lectures/02 Python Setup/11 Using Conda Environments in VS Code.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/02%20Python%20Setup/11%20Using%20Conda%20Environments%20in%20VS%20Code.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/02%20Python%20Setup/11%20Using%20Conda%20Environments%20in%20VS%20Code.ipynb"
+    },
+    "downloaded_files/Lectures/02 Python Setup/12 Setting Up Jupyter Notebook with Conda.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/02%20Python%20Setup/12%20Setting%20Up%20Jupyter%20Notebook%20with%20Conda.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/02%20Python%20Setup/12%20Setting%20Up%20Jupyter%20Notebook%20with%20Conda.ipynb"
+    },
+    "downloaded_files/Lectures/01 Introduction/01 Early Programming.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/01%20Introduction/01%20Early%20Programming.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/01%20Introduction/01%20Early%20Programming.ipynb"
+    },
+    "downloaded_files/Lectures/01 Introduction/02 Programming Languages.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/01%20Introduction/02%20Programming%20Languages.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/01%20Introduction/02%20Programming%20Languages.ipynb"
+    },
+    "downloaded_files/Lectures/01 Introduction/03 Why Choose Python.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/01%20Introduction/03%20Why%20Choose%20Python.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/01%20Introduction/03%20Why%20Choose%20Python.ipynb"
+    },
+    "downloaded_files/Lectures/01 Introduction/04 Python Features and Applications.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/01%20Introduction/04%20Python%20Features%20and%20Applications.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/01%20Introduction/04%20Python%20Features%20and%20Applications.ipynb"
+    },
+    "downloaded_files/Lectures/01 Introduction/05 How Long Does it Take to Learn Python.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/01%20Introduction/05%20How%20Long%20Does%20it%20Take%20to%20Learn%20Python.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/01%20Introduction/05%20How%20Long%20Does%20it%20Take%20to%20Learn%20Python.ipynb"
+    },
+    "downloaded_files/Lectures/01 Introduction/06 Python Versions.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/01%20Introduction/06%20Python%20Versions.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/01%20Introduction/06%20Python%20Versions.ipynb"
+    },
+    "downloaded_files/Lectures/01 Introduction/07 Effective Question Asking.ipynb": {
+        "raw_url": "https://raw.githubusercontent.com/pytopia/Python-Programming/main/Lectures/01%20Introduction/07%20Effective%20Question%20Asking.ipynb",
+        "github_url": "https://github.com/pytopia/Python-Programming/blob/main/Lectures/01%20Introduction/07%20Effective%20Question%20Asking.ipynb"
+    }
+}
