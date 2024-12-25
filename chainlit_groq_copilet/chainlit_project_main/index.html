@@ -1,0 +1,34 @@
+<head>
+    <meta charset="utf-8" />
+  
+  <div class="parent-container">
+    <!-- Chat component container -->
+    <div id="chat-container">
+      <script src="http://localhost:8001/copilot/index.js"></script>
+      <script>
+        window.addEventListener("chainlit-call-fn", (e) => {
+            const { name, args, callback } = e.detail;
+            callback("You sent: " + args.msg);
+        });
+  
+        window.mountChainlitWidget({
+          chainlitServer: "http://localhost:8001",
+        });
+  
+        window.addEventListener("chainlit-call-fn", (e) => {
+            const { name, args, callback } = e.detail;
+            if (name === "test") {
+                console.log(name, args);
+                callback("You sent: " + args.msg);
+            }
+        });
+  
+        window.sendChainlitMessage({
+          type: "system_message",
+          output: "Hello World!",
+        });
+      </script>
+    </div>
+  </div>
+  
+  </body>
